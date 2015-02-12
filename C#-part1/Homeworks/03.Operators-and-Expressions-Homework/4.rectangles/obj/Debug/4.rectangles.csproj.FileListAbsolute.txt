@@ -1,0 +1,8 @@
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\4.rectangles\bin\Debug\4.rectangles.exe.config
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\4.rectangles\bin\Debug\4.rectangles.exe
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\4.rectangles\bin\Debug\4.rectangles.pdb
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\4.rectangles\obj\Debug\4.rectangles.exe
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\4.rectangles\obj\Debug\4.rectangles.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\4.rectangles\bin\Debug\4.rectangles.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\4.rectangles\obj\Debug\4.rectangles.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\4.rectangles\obj\Debug\4.rectangles.pdb

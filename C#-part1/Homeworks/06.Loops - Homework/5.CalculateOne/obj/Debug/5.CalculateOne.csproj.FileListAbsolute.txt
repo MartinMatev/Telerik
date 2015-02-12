@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\5.CalculateOne\bin\Debug\5.CalculateOne.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\5.CalculateOne\bin\Debug\5.CalculateOne.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\5.CalculateOne\bin\Debug\5.CalculateOne.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\5.CalculateOne\obj\Debug\5.CalculateOne.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\5.CalculateOne\obj\Debug\5.CalculateOne.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\5.CalculateOne\obj\Debug\5.CalculateOne.pdb

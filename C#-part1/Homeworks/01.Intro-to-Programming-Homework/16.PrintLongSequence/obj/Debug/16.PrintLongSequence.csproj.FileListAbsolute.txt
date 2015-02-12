@@ -1,0 +1,8 @@
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb
+C:\Users\Marto\Downloads\HW_Martin.Matev_Vuvedenie-v-programiraneto_2015-01-11_14-17\Intro-to-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
+C:\Users\Marto\Downloads\HW_Martin.Matev_Vuvedenie-v-programiraneto_2015-01-11_14-17\Intro-to-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
+C:\Users\Marto\Downloads\HW_Martin.Matev_Vuvedenie-v-programiraneto_2015-01-11_14-17\Intro-to-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb

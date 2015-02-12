@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\7.Quotation\bin\Debug\7.Quotation.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\7.Quotation\bin\Debug\7.Quotation.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\7.Quotation\bin\Debug\7.Quotation.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\7.Quotation\obj\Debug\7.Quotation.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\7.Quotation\obj\Debug\7.Quotation.pdb

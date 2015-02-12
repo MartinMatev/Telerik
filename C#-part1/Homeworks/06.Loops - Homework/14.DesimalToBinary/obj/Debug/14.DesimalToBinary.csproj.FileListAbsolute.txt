@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\14.DesimalToBinary\bin\Debug\14.DesimalToBinary.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\14.DesimalToBinary\bin\Debug\14.DesimalToBinary.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\14.DesimalToBinary\bin\Debug\14.DesimalToBinary.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\14.DesimalToBinary\obj\Debug\14.DesimalToBinary.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\14.DesimalToBinary\obj\Debug\14.DesimalToBinary.pdb

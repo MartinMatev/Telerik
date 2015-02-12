@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\14.CurrentDateTime\bin\Debug\14.CurrentDateTime.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\14.CurrentDateTime\obj\Debug\14.CurrentDateTime.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\14.CurrentDateTime\bin\Debug\14.CurrentDateTime.exe
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\14.CurrentDateTime\bin\Debug\14.CurrentDateTime.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\14.CurrentDateTime\obj\Debug\14.CurrentDateTime.exe
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\14.CurrentDateTime\obj\Debug\14.CurrentDateTime.pdb

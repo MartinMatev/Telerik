@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\9.ExchangeVaruableValues\bin\Debug\9.ExchangeVaruableValues.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\9.ExchangeVaruableValues\bin\Debug\9.ExchangeVaruableValues.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\9.ExchangeVaruableValues\bin\Debug\9.ExchangeVaruableValues.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\9.ExchangeVaruableValues\obj\Debug\9.ExchangeVaruableValues.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\9.ExchangeVaruableValues\obj\Debug\9.ExchangeVaruableValues.pdb

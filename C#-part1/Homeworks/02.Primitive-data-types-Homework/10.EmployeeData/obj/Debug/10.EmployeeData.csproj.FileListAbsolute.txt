@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\10.EmployeeData\obj\Debug\10.EmployeeData.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

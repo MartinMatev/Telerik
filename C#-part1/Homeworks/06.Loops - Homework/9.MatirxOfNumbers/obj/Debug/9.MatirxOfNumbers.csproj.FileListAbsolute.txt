@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\9.MatirxOfNumbers\bin\Debug\9.MatirxOfNumbers.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\9.MatirxOfNumbers\bin\Debug\9.MatirxOfNumbers.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\9.MatirxOfNumbers\bin\Debug\9.MatirxOfNumbers.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\9.MatirxOfNumbers\obj\Debug\9.MatirxOfNumbers.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\9.MatirxOfNumbers\obj\Debug\9.MatirxOfNumbers.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\9.MatirxOfNumbers\obj\Debug\9.MatirxOfNumbers.csprojResolveAssemblyReference.cache

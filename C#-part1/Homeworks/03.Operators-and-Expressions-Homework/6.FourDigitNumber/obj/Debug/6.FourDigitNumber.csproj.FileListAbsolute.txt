@@ -1,0 +1,12 @@
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\6.FourDigitNumber\bin\Debug\6.FourDigitNumber.exe.config
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\6.FourDigitNumber\bin\Debug\6.FourDigitNumber.exe
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\6.FourDigitNumber\bin\Debug\6.FourDigitNumber.pdb
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.exe
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\6.FourDigitNumber\bin\Debug\6.FourDigitNumber.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\6.FourDigitNumber\bin\Debug\6.FourDigitNumber.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\6.FourDigitNumber\bin\Debug\6.FourDigitNumber.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.csprojResolveAssemblyReference.cache
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.csprojResolveAssemblyReference.cache

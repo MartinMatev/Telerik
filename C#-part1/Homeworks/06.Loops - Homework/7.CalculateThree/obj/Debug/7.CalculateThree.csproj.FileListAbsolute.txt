@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\7.CalculateThree\bin\Debug\7.CalculateThree.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\7.CalculateThree\bin\Debug\7.CalculateThree.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\7.CalculateThree\bin\Debug\7.CalculateThree.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\7.CalculateThree\obj\Debug\7.CalculateThree.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\7.CalculateThree\obj\Debug\7.CalculateThree.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\7.CalculateThree\obj\Debug\7.CalculateThree.pdb

@@ -1,0 +1,9 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\10.PointCircleRectangle\bin\Debug\10.PointCircleRectangle.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\10.PointCircleRectangle\bin\Debug\10.PointCircleRectangle.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\10.PointCircleRectangle\bin\Debug\10.PointCircleRectangle.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\10.PointCircleRectangle\obj\Debug\10.PointCircleRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\10.PointCircleRectangle\obj\Debug\10.PointCircleRectangle.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\10.PointCircleRectangle\obj\Debug\10.PointCircleRectangle.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\10.PointCircleRectangle\bin\Debug\10.PointCircleRectangle.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\10.PointCircleRectangle\obj\Debug\10.PointCircleRectangle.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\10.PointCircleRectangle\obj\Debug\10.PointCircleRectangle.pdb

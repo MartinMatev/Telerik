@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\10.ReformatCode\bin\Debug\10.ReformatCode.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\10.ReformatCode\bin\Debug\10.ReformatCode.exe
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\10.ReformatCode\bin\Debug\10.ReformatCode.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\10.ReformatCode\obj\Debug\10.ReformatCode.exe
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\10.ReformatCode\obj\Debug\10.ReformatCode.pdb

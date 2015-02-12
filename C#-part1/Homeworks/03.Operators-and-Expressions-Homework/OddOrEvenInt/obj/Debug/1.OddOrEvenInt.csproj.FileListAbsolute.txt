@@ -1,0 +1,11 @@
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\OddOrEvenInt\bin\Debug\OddOrEvenInt.exe.config
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\OddOrEvenInt\obj\Debug\OddOrEvenInt.exe
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\OddOrEvenInt\obj\Debug\OddOrEvenInt.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\OddOrEvenInt\bin\Debug\OddOrEvenInt.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\OddOrEvenInt\obj\Debug\OddOrEvenInt.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\OddOrEvenInt\obj\Debug\OddOrEvenInt.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\OddOrEvenInt\bin\Debug\OddOrEvenInt.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\OddOrEvenInt\bin\Debug\OddOrEvenInt.pdb
+G:\Visual Studio Projects\Operators-and-Expressions\OddOrEvenInt\bin\Debug\OddOrEvenInt.exe.config
+G:\Visual Studio Projects\Operators-and-Expressions\OddOrEvenInt\obj\Debug\OddOrEvenInt.exe
+G:\Visual Studio Projects\Operators-and-Expressions\OddOrEvenInt\obj\Debug\OddOrEvenInt.pdb

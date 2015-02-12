@@ -1,0 +1,5 @@
+c:\users\matev\documents\visual studio 2013\Projects\Loops - Homework\2.NumsNotDivisableBy3And7\bin\Debug\2.NumsNotDivisableBy3And7.exe.config
+c:\users\matev\documents\visual studio 2013\Projects\Loops - Homework\2.NumsNotDivisableBy3And7\bin\Debug\2.NumsNotDivisableBy3And7.exe
+c:\users\matev\documents\visual studio 2013\Projects\Loops - Homework\2.NumsNotDivisableBy3And7\bin\Debug\2.NumsNotDivisableBy3And7.pdb
+c:\users\matev\documents\visual studio 2013\Projects\Loops - Homework\2.NumsNotDivisableBy3And7\obj\Debug\2.NumsNotDivisableBy3And7.exe
+c:\users\matev\documents\visual studio 2013\Projects\Loops - Homework\2.NumsNotDivisableBy3And7\obj\Debug\2.NumsNotDivisableBy3And7.pdb

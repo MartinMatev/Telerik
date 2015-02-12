@@ -1,0 +1,12 @@
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\03.HelloCSharp\bin\Debug\03.HelloCSharp.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\03.HelloCSharp\bin\Debug\03.HelloCSharp.exe
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\03.HelloCSharp\bin\Debug\03.HelloCSharp.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\03.HelloCSharp\obj\Debug\04.HelloCSharp.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\03.HelloCSharp\obj\Debug\03.HelloCSharp.exe
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\03.HelloCSharp\obj\Debug\03.HelloCSharp.pdb
+C:\Users\Marto\Downloads\HW_Martin.Matev_Vuvedenie-v-programiraneto_2015-01-11_14-17\Intro-to-Programming-Homework\03.HelloCSharp\bin\Debug\03.HelloCSharp.exe.config
+C:\Users\Marto\Downloads\HW_Martin.Matev_Vuvedenie-v-programiraneto_2015-01-11_14-17\Intro-to-Programming-Homework\03.HelloCSharp\obj\Debug\03.HelloCSharp.exe
+C:\Users\Marto\Downloads\HW_Martin.Matev_Vuvedenie-v-programiraneto_2015-01-11_14-17\Intro-to-Programming-Homework\03.HelloCSharp\obj\Debug\03.HelloCSharp.pdb
+C:\Users\Marto\Documents\GitHub\Telerik\C#-part1\Homeworks\01.Intro-to-Programming-Homework\03.HelloCSharp\bin\Debug\03.HelloCSharp.exe.config
+C:\Users\Marto\Documents\GitHub\Telerik\C#-part1\Homeworks\01.Intro-to-Programming-Homework\03.HelloCSharp\obj\Debug\03.HelloCSharp.exe
+C:\Users\Marto\Documents\GitHub\Telerik\C#-part1\Homeworks\01.Intro-to-Programming-Homework\03.HelloCSharp\obj\Debug\03.HelloCSharp.pdb

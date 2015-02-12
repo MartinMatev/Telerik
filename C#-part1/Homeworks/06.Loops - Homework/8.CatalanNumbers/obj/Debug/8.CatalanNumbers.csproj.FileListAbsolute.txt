@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\8.CatalanNumbers\bin\Debug\8.CatalanNumbers.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\8.CatalanNumbers\bin\Debug\8.CatalanNumbers.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\8.CatalanNumbers\bin\Debug\8.CatalanNumbers.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\8.CatalanNumbers\obj\Debug\8.CatalanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\8.CatalanNumbers\obj\Debug\8.CatalanNumbers.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\8.CatalanNumbers\obj\Debug\8.CatalanNumbers.pdb

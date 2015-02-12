@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\05.PrintMyName\bin\Debug\05.PrintMyName.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Intro-to-Programming-Homework\05.PrintMyName\bin\Debug\05.PrintMyName.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Intro-to-Programming-Homework\05.PrintMyName\bin\Debug\05.PrintMyName.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Intro-to-Programming-Homework\05.PrintMyName\obj\Debug\05.PrintMyName.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Intro-to-Programming-Homework\05.PrintMyName\obj\Debug\05.PrintMyName.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Intro-to-Programming-Homework\05.PrintMyName\obj\Debug\05.PrintMyName.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\3.HexademicalFormat\bin\Debug\3.HexademicalFormat.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\3.HexademicalFormat\bin\Debug\3.HexademicalFormat.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\3.HexademicalFormat\bin\Debug\3.HexademicalFormat.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\3.HexademicalFormat\obj\Debug\3.HexademicalFormat.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\3.HexademicalFormat\obj\Debug\3.HexademicalFormat.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-data-types-Homework\3.HexademicalFormat\obj\Debug\3.HexademicalFormat.csprojResolveAssemblyReference.cache

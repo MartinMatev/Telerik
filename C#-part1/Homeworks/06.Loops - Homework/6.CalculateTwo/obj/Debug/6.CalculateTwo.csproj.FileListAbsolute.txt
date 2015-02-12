@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\6.CalculateTwo\bin\Debug\6.CalculateTwo.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\6.CalculateTwo\bin\Debug\6.CalculateTwo.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\6.CalculateTwo\bin\Debug\6.CalculateTwo.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\6.CalculateTwo\obj\Debug\6.CalculateTwo.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\6.CalculateTwo\obj\Debug\6.CalculateTwo.pdb

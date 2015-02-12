@@ -1,0 +1,9 @@
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\15.FutureAge\bin\Debug\15.FutureAge.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\15.FutureAge\bin\Debug\15.FutureAge.exe
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\15.FutureAge\bin\Debug\15.FutureAge.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\15.FutureAge\obj\Debug\15.FutureAge.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\15.FutureAge\obj\Debug\15.FutureAge.exe
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\15.FutureAge\obj\Debug\15.FutureAge.pdb
+C:\Users\Marto\Downloads\HW_Martin.Matev_Vuvedenie-v-programiraneto_2015-01-11_14-17\Intro-to-Programming-Homework\15.FutureAge\bin\Debug\15.FutureAge.exe.config
+C:\Users\Marto\Downloads\HW_Martin.Matev_Vuvedenie-v-programiraneto_2015-01-11_14-17\Intro-to-Programming-Homework\15.FutureAge\obj\Debug\15.FutureAge.exe
+C:\Users\Marto\Downloads\HW_Martin.Matev_Vuvedenie-v-programiraneto_2015-01-11_14-17\Intro-to-Programming-Homework\15.FutureAge\obj\Debug\15.FutureAge.pdb

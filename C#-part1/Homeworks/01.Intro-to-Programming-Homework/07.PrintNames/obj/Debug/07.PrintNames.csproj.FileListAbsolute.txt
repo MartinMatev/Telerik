@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\07.PrintNames\bin\Debug\07.PrintNames.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\07.PrintNames\bin\Debug\07.PrintNames.exe
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\07.PrintNames\bin\Debug\07.PrintNames.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\07.PrintNames\obj\Debug\07.PrintNames.exe
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\07.PrintNames\obj\Debug\07.PrintNames.pdb

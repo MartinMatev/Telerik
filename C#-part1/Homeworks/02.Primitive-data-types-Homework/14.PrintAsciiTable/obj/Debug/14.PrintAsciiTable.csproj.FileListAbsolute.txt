@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\14.PrintAsciiTable\bin\Debug\14.PrintAsciiTable.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\14.PrintAsciiTable\bin\Debug\14.PrintAsciiTable.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\14.PrintAsciiTable\bin\Debug\14.PrintAsciiTable.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\14.PrintAsciiTable\obj\Debug\14.PrintAsciiTable.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\14.PrintAsciiTable\obj\Debug\14.PrintAsciiTable.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-data-types-Homework\14.PrintAsciiTable\obj\Debug\14.PrintAsciiTable.csprojResolveAssemblyReference.cache

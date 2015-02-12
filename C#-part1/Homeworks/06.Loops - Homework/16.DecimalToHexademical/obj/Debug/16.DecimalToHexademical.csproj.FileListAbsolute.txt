@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\16.DecimalToHexademical\bin\Debug\16.DecimalToHexademical.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\16.DecimalToHexademical\bin\Debug\16.DecimalToHexademical.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\16.DecimalToHexademical\bin\Debug\16.DecimalToHexademical.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\16.DecimalToHexademical\obj\Debug\16.DecimalToHexademical.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\16.DecimalToHexademical\obj\Debug\16.DecimalToHexademical.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\16.DecimalToHexademical\obj\Debug\16.DecimalToHexademical.pdb

@@ -1,0 +1,9 @@
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\5.IsThirdDigit7\bin\Debug\5.IsThirdDigit7.exe.config
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\5.IsThirdDigit7\bin\Debug\5.IsThirdDigit7.exe
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\5.IsThirdDigit7\bin\Debug\5.IsThirdDigit7.pdb
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\5.IsThirdDigit7\obj\Debug\5.IsThirdDigit7.exe
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\5.IsThirdDigit7\obj\Debug\5.IsThirdDigit7.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\5.IsThirdDigit7\bin\Debug\5.IsThirdDigit7.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\5.IsThirdDigit7\obj\Debug\5.IsThirdDigit7.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\5.IsThirdDigit7\obj\Debug\5.IsThirdDigit7.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\5.IsThirdDigit7\obj\Debug\5.IsThirdDigit7.csprojResolveAssemblyReference.cache

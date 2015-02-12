@@ -1,0 +1,7 @@
+c:\users\matev\documents\visual studio 2013\Projects\Loops - Homework\4.PrintADeckOfCards\bin\Debug\4.PrintADeckOfCards.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\4.PrintADeckOfCards\bin\Debug\4.PrintADeckOfCards.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\4.PrintADeckOfCards\bin\Debug\4.PrintADeckOfCards.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\4.PrintADeckOfCards\bin\Debug\4.PrintADeckOfCards.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\4.PrintADeckOfCards\obj\Debug\4.PrintADeckOfCards.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\4.PrintADeckOfCards\obj\Debug\4.PrintADeckOfCards.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Loops - Homework\4.PrintADeckOfCards\obj\Debug\4.PrintADeckOfCards.pdb

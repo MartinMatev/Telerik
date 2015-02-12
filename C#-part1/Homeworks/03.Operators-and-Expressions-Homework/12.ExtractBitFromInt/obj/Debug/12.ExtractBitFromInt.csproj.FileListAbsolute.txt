@@ -1,0 +1,8 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\12.ExtractBitFromInt\bin\Debug\12.ExtractBitFromInt.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\12.ExtractBitFromInt\bin\Debug\12.ExtractBitFromInt.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\12.ExtractBitFromInt\bin\Debug\12.ExtractBitFromInt.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\12.ExtractBitFromInt\obj\Debug\12.ExtractBitFromInt.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\12.ExtractBitFromInt\obj\Debug\12.ExtractBitFromInt.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\12.ExtractBitFromInt\bin\Debug\12.ExtractBitFromInt.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\12.ExtractBitFromInt\obj\Debug\12.ExtractBitFromInt.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\12.ExtractBitFromInt\obj\Debug\12.ExtractBitFromInt.pdb

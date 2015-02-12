@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\1.DeclareVariables\bin\Debug\1.DeclareVariables.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\1.DeclareVariables\obj\Debug\1.DeclareVariables.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\1.DeclareVariables\obj\Debug\1.DeclareVariables.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\1.DeclareVariables\obj\Debug\1.DeclareVariables.pdb

@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\5.BooleanVariable\bin\Debug\5.BooleanVariable.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\5.BooleanVariable\obj\Debug\5.BooleanVariable.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\5.BooleanVariable\obj\Debug\5.BooleanVariable.pdb

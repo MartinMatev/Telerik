@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\13.CsharpVsDotNet\bin\Debug\13.CsharpVsDotNet.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\13.CsharpVsDotNet\bin\Debug\13.CsharpVsDotNet.exe
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\13.CsharpVsDotNet\bin\Debug\13.CsharpVsDotNet.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\13.CsharpVsDotNet\obj\Debug\13.CsharpVsDotNet.exe
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\13.CsharpVsDotNet\obj\Debug\13.CsharpVsDotNet.pdb

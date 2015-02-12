@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\4.UnicodeCharacter\bin\Debug\4.UnicodeCharacter.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\4.UnicodeCharacter\bin\Debug\4.UnicodeCharacter.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\4.UnicodeCharacter\bin\Debug\4.UnicodeCharacter.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\4.UnicodeCharacter\obj\Debug\4.UnicodeCharacter.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\4.UnicodeCharacter\obj\Debug\4.UnicodeCharacter.pdb

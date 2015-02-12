@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\2.FloatVsDouble\bin\Debug\2.FloatVsDouble.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\2.FloatVsDouble\bin\Debug\2.FloatVsDouble.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\2.FloatVsDouble\bin\Debug\2.FloatVsDouble.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\2.FloatVsDouble\obj\Debug\2.FloatVsDouble.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\2.FloatVsDouble\obj\Debug\2.FloatVsDouble.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-data-types-Homework\2.FloatVsDouble\obj\Debug\2.FloatVsDouble.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\14.ModifyBit\bin\Debug\14.ModifyBit.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\14.ModifyBit\bin\Debug\14.ModifyBit.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\14.ModifyBit\bin\Debug\14.ModifyBit.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\14.ModifyBit\obj\Debug\14.ModifyBit.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\14.ModifyBit\obj\Debug\14.ModifyBit.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\14.ModifyBit\bin\Debug\14.ModifyBit.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\14.ModifyBit\obj\Debug\14.ModifyBit.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\14.ModifyBit\obj\Debug\14.ModifyBit.pdb

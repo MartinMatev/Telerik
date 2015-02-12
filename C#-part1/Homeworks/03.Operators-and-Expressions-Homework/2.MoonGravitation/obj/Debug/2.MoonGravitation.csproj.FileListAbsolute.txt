@@ -1,0 +1,8 @@
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\2.MoonGravitation\bin\Debug\2.MoonGravitation.exe.config
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\2.MoonGravitation\bin\Debug\2.MoonGravitation.exe
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\2.MoonGravitation\bin\Debug\2.MoonGravitation.pdb
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\2.MoonGravitation\obj\Debug\2.MoonGravitation.exe
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\2.MoonGravitation\obj\Debug\2.MoonGravitation.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\2.MoonGravitation\bin\Debug\2.MoonGravitation.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\2.MoonGravitation\obj\Debug\2.MoonGravitation.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Operators-and-Expressions\2.MoonGravitation\obj\Debug\2.MoonGravitation.pdb

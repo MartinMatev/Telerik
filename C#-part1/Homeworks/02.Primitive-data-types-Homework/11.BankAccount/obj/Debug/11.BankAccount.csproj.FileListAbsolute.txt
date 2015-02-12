@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\11.BankAccount\bin\Debug\11.BankAccount.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\11.BankAccount\bin\Debug\11.BankAccount.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\11.BankAccount\bin\Debug\11.BankAccount.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\11.BankAccount\obj\Debug\11.BankAccount.exe
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\11.BankAccount\obj\Debug\11.BankAccount.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Primitive-data-types-Homework\11.BankAccount\obj\Debug\11.BankAccount.csprojResolveAssemblyReference.cache

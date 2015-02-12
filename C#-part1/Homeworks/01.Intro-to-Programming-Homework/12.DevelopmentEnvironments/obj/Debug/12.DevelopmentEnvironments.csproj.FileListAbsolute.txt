@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\12.DevelopmentEnvironments\bin\Debug\12.DevelopmentEnvironments.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\12.DevelopmentEnvironments\bin\Debug\12.DevelopmentEnvironments.exe
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\12.DevelopmentEnvironments\bin\Debug\12.DevelopmentEnvironments.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\12.DevelopmentEnvironments\obj\Debug\12.DevelopmentEnvironments.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\12.DevelopmentEnvironments\obj\Debug\12.DevelopmentEnvironments.exe
+c:\users\marto\documents\visual studio 2013\Projects\Intro-to-Programming-Homework\12.DevelopmentEnvironments\obj\Debug\12.DevelopmentEnvironments.pdb

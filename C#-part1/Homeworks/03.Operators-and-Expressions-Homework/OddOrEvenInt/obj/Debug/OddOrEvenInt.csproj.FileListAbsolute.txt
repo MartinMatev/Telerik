@@ -1,0 +1,5 @@
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\OddOrEvenInt\bin\Debug\OddOrEvenInt.exe.config
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\OddOrEvenInt\bin\Debug\OddOrEvenInt.exe
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\OddOrEvenInt\bin\Debug\OddOrEvenInt.pdb
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\OddOrEvenInt\obj\Debug\OddOrEvenInt.exe
+c:\users\matev\documents\visual studio 2013\Projects\Operators-and-Expressions\OddOrEvenInt\obj\Debug\OddOrEvenInt.pdb
