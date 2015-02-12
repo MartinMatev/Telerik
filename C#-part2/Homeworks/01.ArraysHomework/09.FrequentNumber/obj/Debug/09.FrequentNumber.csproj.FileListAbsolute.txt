@@ -1,0 +1,8 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\09.FrequentNumber\bin\Debug\09.FrequentNumber.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\09.FrequentNumber\bin\Debug\09.FrequentNumber.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\09.FrequentNumber\bin\Debug\09.FrequentNumber.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\09.FrequentNumber\obj\Debug\09.FrequentNumber.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\09.FrequentNumber\obj\Debug\09.FrequentNumber.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\09.FrequentNumber\bin\Debug\09.FrequentNumber.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\09.FrequentNumber\obj\Debug\09.FrequentNumber.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\09.FrequentNumber\obj\Debug\09.FrequentNumber.pdb

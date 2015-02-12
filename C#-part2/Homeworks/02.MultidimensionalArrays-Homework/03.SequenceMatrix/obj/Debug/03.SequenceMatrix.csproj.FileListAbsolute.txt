@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\MultidimensionalArrays-Homework\03.SequenceMatrix\bin\Debug\03.SequenceMatrix.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\MultidimensionalArrays-Homework\03.SequenceMatrix\bin\Debug\03.SequenceMatrix.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\MultidimensionalArrays-Homework\03.SequenceMatrix\bin\Debug\03.SequenceMatrix.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\MultidimensionalArrays-Homework\03.SequenceMatrix\obj\Debug\03.SequenceMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\MultidimensionalArrays-Homework\03.SequenceMatrix\obj\Debug\03.SequenceMatrix.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\MultidimensionalArrays-Homework\03.SequenceMatrix\obj\Debug\03.SequenceMatrix.pdb

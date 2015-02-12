@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\ArraysHomework\AllocateArray\bin\Debug\AllocateArray.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\ArraysHomework\AllocateArray\bin\Debug\AllocateArray.exe
+c:\users\marto\documents\visual studio 2013\Projects\ArraysHomework\AllocateArray\bin\Debug\AllocateArray.pdb
+c:\users\marto\documents\visual studio 2013\Projects\ArraysHomework\AllocateArray\obj\Debug\AllocateArray.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\ArraysHomework\AllocateArray\obj\Debug\AllocateArray.exe
+c:\users\marto\documents\visual studio 2013\Projects\ArraysHomework\AllocateArray\obj\Debug\AllocateArray.pdb

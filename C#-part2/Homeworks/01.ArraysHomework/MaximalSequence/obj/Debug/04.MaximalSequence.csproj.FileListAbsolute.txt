@@ -1,0 +1,9 @@
+c:\users\marto\documents\visual studio 2013\Projects\ArraysHomework\MaximalSequence\bin\Debug\MaximalSequence.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\ArraysHomework\MaximalSequence\bin\Debug\MaximalSequence.exe
+c:\users\marto\documents\visual studio 2013\Projects\ArraysHomework\MaximalSequence\bin\Debug\MaximalSequence.pdb
+c:\users\marto\documents\visual studio 2013\Projects\ArraysHomework\MaximalSequence\obj\Debug\04.MaximalSequence.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\ArraysHomework\MaximalSequence\obj\Debug\MaximalSequence.exe
+c:\users\marto\documents\visual studio 2013\Projects\ArraysHomework\MaximalSequence\obj\Debug\MaximalSequence.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\MaximalSequence\bin\Debug\MaximalSequence.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\MaximalSequence\obj\Debug\MaximalSequence.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\MaximalSequence\obj\Debug\MaximalSequence.pdb

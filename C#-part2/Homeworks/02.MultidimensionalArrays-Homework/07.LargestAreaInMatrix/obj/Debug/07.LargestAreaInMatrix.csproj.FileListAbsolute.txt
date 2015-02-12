@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\MultidimensionalArrays-Homework\07.LargestAreaInMatrix\bin\Debug\07.LargestAreaInMatrix.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\MultidimensionalArrays-Homework\07.LargestAreaInMatrix\bin\Debug\07.LargestAreaInMatrix.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\MultidimensionalArrays-Homework\07.LargestAreaInMatrix\bin\Debug\07.LargestAreaInMatrix.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\MultidimensionalArrays-Homework\07.LargestAreaInMatrix\obj\Debug\07.LargestAreaInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\MultidimensionalArrays-Homework\07.LargestAreaInMatrix\obj\Debug\07.LargestAreaInMatrix.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\MultidimensionalArrays-Homework\07.LargestAreaInMatrix\obj\Debug\07.LargestAreaInMatrix.pdb

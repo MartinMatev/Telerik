@@ -1,0 +1,1 @@
+c:\users\marto\documents\visual studio 2013\Projects\ArraysHomework\MaximalSequence\bin\Debug\MaximalSequence.exe.config

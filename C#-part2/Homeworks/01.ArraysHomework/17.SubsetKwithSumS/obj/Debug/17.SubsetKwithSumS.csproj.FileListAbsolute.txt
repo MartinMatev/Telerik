@@ -1,0 +1,9 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\17.SubsetKwithSumS\bin\Debug\17.SubsetKwithSumS.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\17.SubsetKwithSumS\bin\Debug\17.SubsetKwithSumS.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\17.SubsetKwithSumS\bin\Debug\17.SubsetKwithSumS.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\17.SubsetKwithSumS\obj\Debug\17.SubsetKwithSumS.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\17.SubsetKwithSumS\obj\Debug\17.SubsetKwithSumS.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\17.SubsetKwithSumS\obj\Debug\17.SubsetKwithSumS.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\17.SubsetKwithSumS\bin\Debug\17.SubsetKwithSumS.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\17.SubsetKwithSumS\obj\Debug\17.SubsetKwithSumS.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\17.SubsetKwithSumS\obj\Debug\17.SubsetKwithSumS.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\20.VariationsOfSet\bin\Debug\20.VariationsOfSet.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\20.VariationsOfSet\bin\Debug\20.VariationsOfSet.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\20.VariationsOfSet\bin\Debug\20.VariationsOfSet.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\20.VariationsOfSet\obj\Debug\20.VariationsOfSet.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\20.VariationsOfSet\obj\Debug\20.VariationsOfSet.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\20.VariationsOfSet\obj\Debug\20.VariationsOfSet.csprojResolveAssemblyReference.cache

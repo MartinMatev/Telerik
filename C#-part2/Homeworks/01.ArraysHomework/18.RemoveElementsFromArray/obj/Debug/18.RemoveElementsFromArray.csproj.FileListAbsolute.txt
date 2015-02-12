@@ -1,0 +1,12 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\18.RemoveElementsFromArray\bin\Debug\18.RemoveElementsFromArray.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\18.RemoveElementsFromArray\bin\Debug\18.RemoveElementsFromArray.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\18.RemoveElementsFromArray\bin\Debug\18.RemoveElementsFromArray.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\18.RemoveElementsFromArray\obj\Debug\18.RemoveElementsFromArray.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\18.RemoveElementsFromArray\obj\Debug\18.RemoveElementsFromArray.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\18.RemoveElementsFromArray\obj\Debug\18.RemoveElementsFromArray.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\18.RemoveElementsFromArray\bin\Debug\18.RemoveElementsFromArray.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\18.RemoveElementsFromArray\obj\Debug\18.RemoveElementsFromArray.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\18.RemoveElementsFromArray\obj\Debug\18.RemoveElementsFromArray.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\18.RemoveElementsFromArray\bin\Debug\18.RemoveElementsFromArray.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\18.RemoveElementsFromArray\bin\Debug\18.RemoveElementsFromArray.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\18.RemoveElementsFromArray\obj\Debug\18.RemoveElementsFromArray.csprojResolveAssemblyReference.cache
