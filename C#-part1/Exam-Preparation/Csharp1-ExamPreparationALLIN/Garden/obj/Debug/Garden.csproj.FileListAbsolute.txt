@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Garden\bin\Debug\Garden.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Garden\bin\Debug\Garden.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Garden\bin\Debug\Garden.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Garden\obj\Debug\Garden.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Garden\obj\Debug\Garden.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Garden\obj\Debug\Garden.pdb

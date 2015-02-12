@@ -1,0 +1,9 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Eggcelent\bin\Debug\Eggcelent.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Eggcelent\bin\Debug\Eggcelent.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Eggcelent\bin\Debug\Eggcelent.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Eggcelent\obj\Debug\Eggcelent.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Eggcelent\obj\Debug\Eggcelent.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Eggcelent\obj\Debug\Eggcelent.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Eggcelent\bin\Debug\Eggcelent.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Eggcelent\obj\Debug\Eggcelent.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Eggcelent\obj\Debug\Eggcelent.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\FirTree\bin\Debug\FirTree.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\FirTree\bin\Debug\FirTree.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\FirTree\bin\Debug\FirTree.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\FirTree\obj\Debug\FirTree.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\FirTree\obj\Debug\FirTree.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\FirTree\obj\Debug\FirTree.pdb

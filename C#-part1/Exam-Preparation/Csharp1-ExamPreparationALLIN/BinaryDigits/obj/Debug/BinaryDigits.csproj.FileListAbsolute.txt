@@ -1,0 +1,5 @@
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\BinaryDigits\bin\Debug\BinaryDigits.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\BinaryDigits\bin\Debug\BinaryDigits.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\BinaryDigits\bin\Debug\BinaryDigits.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\BinaryDigits\obj\Debug\BinaryDigits.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\BinaryDigits\obj\Debug\BinaryDigits.pdb

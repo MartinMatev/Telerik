@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\SandGlass\bin\Debug\SandGlass.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\SandGlass\bin\Debug\SandGlass.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\SandGlass\bin\Debug\SandGlass.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\SandGlass\obj\Debug\SandGlass.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\SandGlass\obj\Debug\SandGlass.pdb

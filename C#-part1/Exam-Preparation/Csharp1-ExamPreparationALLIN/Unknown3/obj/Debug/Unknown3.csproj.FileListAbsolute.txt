@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Unknown3\bin\Debug\Unknown3.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Unknown3\bin\Debug\Unknown3.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Unknown3\bin\Debug\Unknown3.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Unknown3\obj\Debug\Unknown3.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Unknown3\obj\Debug\Unknown3.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Unknown3\obj\Debug\Unknown3.pdb

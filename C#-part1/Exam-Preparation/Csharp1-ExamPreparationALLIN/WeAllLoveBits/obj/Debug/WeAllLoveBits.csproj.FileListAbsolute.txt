@@ -1,0 +1,9 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\WeAllLoveBits\bin\Debug\WeAllLoveBits.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\WeAllLoveBits\obj\Debug\WeAllLoveBits.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\WeAllLoveBits\obj\Debug\WeAllLoveBits.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\WeAllLoveBits\obj\Debug\WeAllLoveBits.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\WeAllLoveBits\obj\Debug\WeAllLoveBits.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\WeAllLoveBits\obj\Debug\WeAllLoveBits.pdb

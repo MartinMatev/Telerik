@@ -1,0 +1,9 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\CoffeeMachine\obj\Debug\CoffeeMachine.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\CoffeeMachine\obj\Debug\CoffeeMachine.pdb

@@ -1,0 +1,9 @@
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\4.BinaryDigitCount\bin\Debug\4.BinaryDigitCount.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\4.BinaryDigitCount\bin\Debug\4.BinaryDigitCount.exe
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\4.BinaryDigitCount\bin\Debug\4.BinaryDigitCount.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\4.BinaryDigitCount\obj\Debug\4.BinaryDigitCount.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\4.BinaryDigitCount\obj\Debug\4.BinaryDigitCount.exe
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\4.BinaryDigitCount\obj\Debug\4.BinaryDigitCount.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\Example-Exam-Csharp-1-2012-Niki\4.BinaryDigitCount\bin\Debug\4.BinaryDigitCount.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\Example-Exam-Csharp-1-2012-Niki\4.BinaryDigitCount\obj\Debug\4.BinaryDigitCount.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\Example-Exam-Csharp-1-2012-Niki\4.BinaryDigitCount\obj\Debug\4.BinaryDigitCount.pdb

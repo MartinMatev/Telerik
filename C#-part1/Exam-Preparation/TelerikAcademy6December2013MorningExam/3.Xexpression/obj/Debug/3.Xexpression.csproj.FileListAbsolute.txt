@@ -1,0 +1,9 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TelerikAcademy6December2013MorningExam\3.Xexpression\bin\Debug\3.Xexpression.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TelerikAcademy6December2013MorningExam\3.Xexpression\bin\Debug\3.Xexpression.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TelerikAcademy6December2013MorningExam\3.Xexpression\bin\Debug\3.Xexpression.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TelerikAcademy6December2013MorningExam\3.Xexpression\obj\Debug\3.Xexpression.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TelerikAcademy6December2013MorningExam\3.Xexpression\obj\Debug\3.Xexpression.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TelerikAcademy6December2013MorningExam\3.Xexpression\obj\Debug\3.Xexpression.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\TelerikAcademy6December2013MorningExam\3.Xexpression\bin\Debug\3.Xexpression.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\TelerikAcademy6December2013MorningExam\3.Xexpression\obj\Debug\3.Xexpression.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\TelerikAcademy6December2013MorningExam\3.Xexpression\obj\Debug\3.Xexpression.pdb

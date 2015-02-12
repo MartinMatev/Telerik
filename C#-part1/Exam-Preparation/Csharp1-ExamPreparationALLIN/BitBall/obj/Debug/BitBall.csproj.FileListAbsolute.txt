@@ -1,0 +1,12 @@
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\BitBall\bin\Debug\BitBall.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\BitBall\bin\Debug\BitBall.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\BitBall\bin\Debug\BitBall.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\BitBall\obj\Debug\BitBall.csprojResolveAssemblyReference.cache
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\BitBall\obj\Debug\BitBall.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\BitBall\obj\Debug\BitBall.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\BitBall\bin\Debug\BitBall.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\BitBall\obj\Debug\BitBall.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\BitBall\obj\Debug\BitBall.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\BitBall\bin\Debug\BitBall.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\BitBall\bin\Debug\BitBall.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\BitBall\obj\Debug\BitBall.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\PeaceOfCake\bin\Debug\PeaceOfCake.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\PeaceOfCake\bin\Debug\PeaceOfCake.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\PeaceOfCake\bin\Debug\PeaceOfCake.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\PeaceOfCake\obj\Debug\PeaceOfCake.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\PeaceOfCake\obj\Debug\PeaceOfCake.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\PeaceOfCake\obj\Debug\PeaceOfCake.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\PeaceOfCake\bin\Debug\PeaceOfCake.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\PeaceOfCake\obj\Debug\PeaceOfCake.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\PeaceOfCake\obj\Debug\PeaceOfCake.pdb

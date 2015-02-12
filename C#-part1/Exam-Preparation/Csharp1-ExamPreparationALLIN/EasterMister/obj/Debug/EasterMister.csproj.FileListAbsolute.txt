@@ -1,0 +1,5 @@
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\EasterMister\bin\Debug\EasterMister.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\EasterMister\bin\Debug\EasterMister.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\EasterMister\bin\Debug\EasterMister.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\EasterMister\obj\Debug\EasterMister.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\EasterMister\obj\Debug\EasterMister.pdb

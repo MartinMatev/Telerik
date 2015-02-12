@@ -1,0 +1,5 @@
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\ApplesOrOranges\bin\Debug\ApplesOrOranges.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\ApplesOrOranges\bin\Debug\ApplesOrOranges.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\ApplesOrOranges\bin\Debug\ApplesOrOranges.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\ApplesOrOranges\obj\Debug\ApplesOrOranges.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\ApplesOrOranges\obj\Debug\ApplesOrOranges.pdb

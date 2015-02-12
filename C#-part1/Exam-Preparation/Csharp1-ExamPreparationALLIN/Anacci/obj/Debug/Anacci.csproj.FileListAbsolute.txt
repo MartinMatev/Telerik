@@ -1,0 +1,6 @@
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Anacci\bin\Debug\Anacci.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Anacci\bin\Debug\Anacci.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Anacci\bin\Debug\Anacci.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Anacci\obj\Debug\Anacci.csprojResolveAssemblyReference.cache
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Anacci\obj\Debug\Anacci.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\Anacci\obj\Debug\Anacci.pdb

@@ -1,0 +1,9 @@
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\1.CartesianCoordinateSystem\bin\Debug\1.CartesianCoordinateSystem.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\1.CartesianCoordinateSystem\bin\Debug\1.CartesianCoordinateSystem.exe
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\1.CartesianCoordinateSystem\bin\Debug\1.CartesianCoordinateSystem.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\1.CartesianCoordinateSystem\obj\Debug\1.CartesianCoordinateSystem.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\1.CartesianCoordinateSystem\obj\Debug\1.CartesianCoordinateSystem.exe
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\1.CartesianCoordinateSystem\obj\Debug\1.CartesianCoordinateSystem.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\Example-Exam-Csharp-1-2012-Niki\1.CartesianCoordinateSystem\bin\Debug\1.CartesianCoordinateSystem.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\Example-Exam-Csharp-1-2012-Niki\1.CartesianCoordinateSystem\obj\Debug\1.CartesianCoordinateSystem.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\Example-Exam-Csharp-1-2012-Niki\1.CartesianCoordinateSystem\obj\Debug\1.CartesianCoordinateSystem.pdb

@@ -1,0 +1,10 @@
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\TelerikLogo\bin\Debug\TelerikLogo.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\TelerikLogo\bin\Debug\TelerikLogo.exe
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\TelerikLogo\bin\Debug\TelerikLogo.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\TelerikLogo\obj\Debug\TelerikLogo.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\TelerikLogo\obj\Debug\TelerikLogo.exe
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\TelerikLogo\obj\Debug\TelerikLogo.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TelerikLogo\bin\Debug\TelerikLogo.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TelerikLogo\obj\Debug\TelerikLogo.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TelerikLogo\obj\Debug\TelerikLogo.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TelerikLogo\obj\Debug\TelerikLogo.csprojResolveAssemblyReference.cache

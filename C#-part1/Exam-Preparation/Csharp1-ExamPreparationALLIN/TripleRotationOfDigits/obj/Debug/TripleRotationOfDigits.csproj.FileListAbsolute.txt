@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TripleRotationOfDigits\obj\Debug\TripleRotationOfDigits.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TripleRotationOfDigits\obj\Debug\TripleRotationOfDigits.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TripleRotationOfDigits\obj\Debug\TripleRotationOfDigits.pdb

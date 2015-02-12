@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\CardWars\bin\Debug\CardWars.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\CardWars\bin\Debug\CardWars.exe
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\CardWars\bin\Debug\CardWars.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\CardWars\obj\Debug\CardWars.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\CardWars\obj\Debug\CardWars.exe
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\CardWars\obj\Debug\CardWars.pdb

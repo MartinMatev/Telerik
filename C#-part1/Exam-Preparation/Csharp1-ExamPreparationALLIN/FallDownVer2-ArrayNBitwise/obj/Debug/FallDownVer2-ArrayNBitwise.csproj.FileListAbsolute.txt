@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\FallDownVer2-ArrayNBitwise\bin\Debug\FallDownVer2-ArrayNBitwise.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\FallDownVer2-ArrayNBitwise\bin\Debug\FallDownVer2-ArrayNBitwise.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\FallDownVer2-ArrayNBitwise\bin\Debug\FallDownVer2-ArrayNBitwise.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\FallDownVer2-ArrayNBitwise\obj\Debug\FallDownVer2-ArrayNBitwise.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\FallDownVer2-ArrayNBitwise\obj\Debug\FallDownVer2-ArrayNBitwise.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\FallDownVer2-ArrayNBitwise\obj\Debug\FallDownVer2-ArrayNBitwise.pdb

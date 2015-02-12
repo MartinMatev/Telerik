@@ -1,0 +1,9 @@
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\SpiralArray\bin\Debug\SpiralArray.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\SpiralArray\bin\Debug\SpiralArray.exe
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\SpiralArray\bin\Debug\SpiralArray.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\SpiralArray\obj\Debug\SpiralArray.exe
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\SpiralArray\obj\Debug\SpiralArray.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Csharp1-ExamPreparationALLIN\SpiralArray\obj\Debug\SpiralArray.csprojResolveAssemblyReference.cache
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\SpiralArray\bin\Debug\SpiralArray.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\SpiralArray\obj\Debug\SpiralArray.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\SpiralArray\obj\Debug\SpiralArray.pdb

@@ -1,0 +1,9 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\AstrologicalDigits\bin\Debug\AstrologicalDigits.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\AstrologicalDigits\obj\Debug\AstrologicalDigits.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\AstrologicalDigits\obj\Debug\AstrologicalDigits.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\AstrologicalDigits\obj\Debug\AstrologicalDigits.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\AstrologicalDigits\obj\Debug\AstrologicalDigits.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\AstrologicalDigits\obj\Debug\AstrologicalDigits.pdb

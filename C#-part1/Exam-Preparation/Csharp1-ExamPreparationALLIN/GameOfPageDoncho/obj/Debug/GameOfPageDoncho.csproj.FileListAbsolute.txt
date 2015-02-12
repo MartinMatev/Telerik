@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\GameOfPageDoncho\bin\Debug\GameOfPageDoncho.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\GameOfPageDoncho\bin\Debug\GameOfPageDoncho.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\GameOfPageDoncho\bin\Debug\GameOfPageDoncho.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\GameOfPageDoncho\obj\Debug\GameOfPageDoncho.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\GameOfPageDoncho\obj\Debug\GameOfPageDoncho.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\GameOfPageDoncho\obj\Debug\GameOfPageDoncho.pdb

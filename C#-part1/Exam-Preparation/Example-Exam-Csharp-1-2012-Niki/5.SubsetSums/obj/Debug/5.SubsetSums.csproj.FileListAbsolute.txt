@@ -1,0 +1,9 @@
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\5.SubsetSums\bin\Debug\5.SubsetSums.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\5.SubsetSums\bin\Debug\5.SubsetSums.exe
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\5.SubsetSums\bin\Debug\5.SubsetSums.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\5.SubsetSums\obj\Debug\5.SubsetSums.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\5.SubsetSums\obj\Debug\5.SubsetSums.exe
+c:\users\marto\documents\visual studio 2013\Projects\Example-Exam-Csharp-1-2012-Niki\5.SubsetSums\obj\Debug\5.SubsetSums.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\Example-Exam-Csharp-1-2012-Niki\5.SubsetSums\bin\Debug\5.SubsetSums.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\Example-Exam-Csharp-1-2012-Niki\5.SubsetSums\obj\Debug\5.SubsetSums.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\Example-Exam-Csharp-1-2012-Niki\5.SubsetSums\obj\Debug\5.SubsetSums.pdb

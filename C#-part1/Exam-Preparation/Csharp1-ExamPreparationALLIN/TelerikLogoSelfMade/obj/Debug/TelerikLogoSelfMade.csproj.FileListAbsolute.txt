@@ -1,0 +1,6 @@
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TelerikLogoSelfMade\bin\Debug\TelerikLogoSelfMade.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TelerikLogoSelfMade\bin\Debug\TelerikLogoSelfMade.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TelerikLogoSelfMade\bin\Debug\TelerikLogoSelfMade.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TelerikLogoSelfMade\obj\Debug\TelerikLogoSelfMade.csprojResolveAssemblyReference.cache
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TelerikLogoSelfMade\obj\Debug\TelerikLogoSelfMade.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TelerikLogoSelfMade\obj\Debug\TelerikLogoSelfMade.pdb

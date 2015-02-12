@@ -1,0 +1,6 @@
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\NightmareOnCodestreet\bin\Debug\NightmareOnCodestreet.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\NightmareOnCodestreet\bin\Debug\NightmareOnCodestreet.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\NightmareOnCodestreet\bin\Debug\NightmareOnCodestreet.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\NightmareOnCodestreet\obj\Debug\NightmareOnCodestreet.csprojResolveAssemblyReference.cache
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\NightmareOnCodestreet\obj\Debug\NightmareOnCodestreet.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\NightmareOnCodestreet\obj\Debug\NightmareOnCodestreet.pdb

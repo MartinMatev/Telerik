@@ -1,0 +1,5 @@
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\AmericanPie\bin\Debug\AmericanPie.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\AmericanPie\bin\Debug\AmericanPie.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\AmericanPie\bin\Debug\AmericanPie.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\AmericanPie\obj\Debug\AmericanPie.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\AmericanPie\obj\Debug\AmericanPie.pdb

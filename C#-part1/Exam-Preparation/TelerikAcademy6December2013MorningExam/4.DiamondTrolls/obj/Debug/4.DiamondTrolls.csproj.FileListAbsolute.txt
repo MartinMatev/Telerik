@@ -1,0 +1,9 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TelerikAcademy6December2013MorningExam\4.DiamondTrolls\bin\Debug\4.DiamondTrolls.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TelerikAcademy6December2013MorningExam\4.DiamondTrolls\bin\Debug\4.DiamondTrolls.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TelerikAcademy6December2013MorningExam\4.DiamondTrolls\bin\Debug\4.DiamondTrolls.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TelerikAcademy6December2013MorningExam\4.DiamondTrolls\obj\Debug\4.DiamondTrolls.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TelerikAcademy6December2013MorningExam\4.DiamondTrolls\obj\Debug\4.DiamondTrolls.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TelerikAcademy6December2013MorningExam\4.DiamondTrolls\obj\Debug\4.DiamondTrolls.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\TelerikAcademy6December2013MorningExam\4.DiamondTrolls\bin\Debug\4.DiamondTrolls.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\TelerikAcademy6December2013MorningExam\4.DiamondTrolls\obj\Debug\4.DiamondTrolls.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\TelerikAcademy6December2013MorningExam\4.DiamondTrolls\obj\Debug\4.DiamondTrolls.pdb

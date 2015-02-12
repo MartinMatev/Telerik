@@ -1,0 +1,12 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\OnesAndZeros\bin\Debug\OnesAndZeros.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\OnesAndZeros\bin\Debug\OnesAndZeros.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\OnesAndZeros\bin\Debug\OnesAndZeros.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\OnesAndZeros\obj\Debug\OnesAndZeros.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\OnesAndZeros\obj\Debug\OnesAndZeros.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\OnesAndZeros\obj\Debug\OnesAndZeros.csprojResolveAssemblyReference.cache
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\OnesAndZeros\bin\Debug\OnesAndZeros.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\OnesAndZeros\obj\Debug\OnesAndZeros.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\OnesAndZeros\obj\Debug\OnesAndZeros.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\OnesAndZeros\bin\Debug\OnesAndZeros.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\OnesAndZeros\bin\Debug\OnesAndZeros.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\OnesAndZeros\obj\Debug\OnesAndZeros.csprojResolveAssemblyReference.cache

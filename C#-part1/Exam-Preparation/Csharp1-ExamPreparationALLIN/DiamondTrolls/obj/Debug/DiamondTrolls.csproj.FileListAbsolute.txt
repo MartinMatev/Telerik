@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\DiamondTrolls\bin\Debug\DiamondTrolls.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\DiamondTrolls\bin\Debug\DiamondTrolls.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\DiamondTrolls\bin\Debug\DiamondTrolls.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\DiamondTrolls\obj\Debug\DiamondTrolls.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\DiamondTrolls\obj\Debug\DiamondTrolls.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\DiamondTrolls\obj\Debug\DiamondTrolls.pdb

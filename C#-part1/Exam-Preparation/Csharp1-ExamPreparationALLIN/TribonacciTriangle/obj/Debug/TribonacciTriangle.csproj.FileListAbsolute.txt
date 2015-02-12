@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TribonacciTriangle\bin\Debug\TribonacciTriangle.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TribonacciTriangle\obj\Debug\TribonacciTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TribonacciTriangle\obj\Debug\TribonacciTriangle.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\TribonacciTriangle\obj\Debug\TribonacciTriangle.pdb

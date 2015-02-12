@@ -1,0 +1,9 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Csharp1-ExamPreparationALLIN\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.pdb

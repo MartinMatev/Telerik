@@ -1,0 +1,8 @@
+c:\users\marto\documents\visual studio 2013\Projects\TelerikAcademy6December2013MorningExam\2.TheHorror\bin\Debug\2.TheHorror.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\TelerikAcademy6December2013MorningExam\2.TheHorror\bin\Debug\2.TheHorror.exe
+c:\users\marto\documents\visual studio 2013\Projects\TelerikAcademy6December2013MorningExam\2.TheHorror\bin\Debug\2.TheHorror.pdb
+c:\users\marto\documents\visual studio 2013\Projects\TelerikAcademy6December2013MorningExam\2.TheHorror\obj\Debug\2.TheHorror.exe
+c:\users\marto\documents\visual studio 2013\Projects\TelerikAcademy6December2013MorningExam\2.TheHorror\obj\Debug\2.TheHorror.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\TelerikAcademy6December2013MorningExam\2.TheHorror\bin\Debug\2.TheHorror.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\TelerikAcademy6December2013MorningExam\2.TheHorror\obj\Debug\2.TheHorror.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# part 1\TelerikAcademy6December2013MorningExam\2.TheHorror\obj\Debug\2.TheHorror.pdb
