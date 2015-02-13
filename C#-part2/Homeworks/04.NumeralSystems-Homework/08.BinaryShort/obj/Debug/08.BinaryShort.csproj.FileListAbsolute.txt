@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\08.BinaryShort\bin\Debug\08.BinaryShort.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\08.BinaryShort\bin\Debug\08.BinaryShort.exe
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\08.BinaryShort\bin\Debug\08.BinaryShort.pdb
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\08.BinaryShort\obj\Debug\08.BinaryShort.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\08.BinaryShort\obj\Debug\08.BinaryShort.exe
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\08.BinaryShort\obj\Debug\08.BinaryShort.pdb

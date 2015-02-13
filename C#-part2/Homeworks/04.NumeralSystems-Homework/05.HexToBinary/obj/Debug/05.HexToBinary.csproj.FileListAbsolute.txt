@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\05.HexToBinary\bin\Debug\05.HexToBinary.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\05.HexToBinary\bin\Debug\05.HexToBinary.exe
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\05.HexToBinary\bin\Debug\05.HexToBinary.pdb
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\05.HexToBinary\obj\Debug\05.HexToBinary.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\05.HexToBinary\obj\Debug\05.HexToBinary.exe
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\05.HexToBinary\obj\Debug\05.HexToBinary.pdb

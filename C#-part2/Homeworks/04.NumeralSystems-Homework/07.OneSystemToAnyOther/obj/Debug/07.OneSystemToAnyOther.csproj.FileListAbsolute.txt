@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.exe
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.pdb
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.exe
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.pdb

@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\09.BinaryFloatingPoint\bin\Debug\09.BinaryFloatingPoint.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\NumeralSystems-Homework\09.BinaryFloatingPoint\bin\Debug\09.BinaryFloatingPoint.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\NumeralSystems-Homework\09.BinaryFloatingPoint\bin\Debug\09.BinaryFloatingPoint.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\NumeralSystems-Homework\09.BinaryFloatingPoint\obj\Debug\09.BinaryFloatingPoint.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\NumeralSystems-Homework\09.BinaryFloatingPoint\obj\Debug\09.BinaryFloatingPoint.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\NumeralSystems-Homework\09.BinaryFloatingPoint\obj\Debug\09.BinaryFloatingPoint.pdb

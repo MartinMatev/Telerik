@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.exe
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.pdb
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.exe
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.pdb

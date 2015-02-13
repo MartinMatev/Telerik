@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\04.HexademicalToDecimal\bin\Debug\04.HexademicalToDecimal.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\04.HexademicalToDecimal\bin\Debug\04.HexademicalToDecimal.exe
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\04.HexademicalToDecimal\bin\Debug\04.HexademicalToDecimal.pdb
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\04.HexademicalToDecimal\obj\Debug\04.HexademicalToDecimal.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\04.HexademicalToDecimal\obj\Debug\04.HexademicalToDecimal.exe
+c:\users\marto\documents\visual studio 2013\Projects\NumeralSystems-Homework\04.HexademicalToDecimal\obj\Debug\04.HexademicalToDecimal.pdb
