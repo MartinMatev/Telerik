@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\IntroductionToCollections-Tutorial\IntrestingDataStructures\bin\Debug\IntrestingDataStructures.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\IntroductionToCollections-Tutorial\IntrestingDataStructures\bin\Debug\IntrestingDataStructures.exe
+c:\users\marto\documents\visual studio 2013\Projects\IntroductionToCollections-Tutorial\IntrestingDataStructures\bin\Debug\IntrestingDataStructures.pdb
+c:\users\marto\documents\visual studio 2013\Projects\IntroductionToCollections-Tutorial\IntrestingDataStructures\obj\Debug\IntrestingDataStructures.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\IntroductionToCollections-Tutorial\IntrestingDataStructures\obj\Debug\IntrestingDataStructures.exe
+c:\users\marto\documents\visual studio 2013\Projects\IntroductionToCollections-Tutorial\IntrestingDataStructures\obj\Debug\IntrestingDataStructures.pdb

@@ -1,13 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 // Write a program that compares two char arrays lexicographically (letter by letter)
 class CompareCharArrays
 {
-    static void Main(string[] args)
+    static void Main()
     {
         Console.Write("Type in first string: ");
         char[] firstWord = Console.ReadLine().ToCharArray();

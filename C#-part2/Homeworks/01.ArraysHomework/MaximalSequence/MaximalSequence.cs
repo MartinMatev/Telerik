@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 // Write a program that finds the maximal sequence of equal elements in an array.
 /*Example:
@@ -10,7 +9,7 @@ using System.Text;
  */ 
 class MaximalSequence
 {
-    static void Main(string[] args)
+    static void Main()
     {
         // Enter the array, and EXPLODE (a.k.a Split) each digit
         Console.Write("Enter digits separated by comma or space: ");

@@ -1,15 +1,10 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 // Write a program that finds all prime numbers in the range [1...10 000 000]. 
 // Use the Sieve of Eratosthenes algorithm.
 class PrimeNumbers
 {
-    static void Main(string[] args)
+    static void Main()
     {
         int length = 10000000;
         bool[] numbersArray = new bool[length];
@@ -35,16 +30,16 @@ class PrimeNumbers
         }
         // The ELEMENTS that remain TRUE after all this ARE prime numbers.
 
-        // Displaying the numbers--- WARNING there are A LOT of primes up until 10 000 000
-        // so I commented this out. Displaying them is problematic, because of the buffer size && WriteLine is kinda slow. Use at your own risk.
-        // You may try it with a lower number as let's say 10000
+        // Displaying the numbers--- WARNING there are A LOT of primes up until 10 000 000.
+        // Displaying them is problematic, because of the buffer size && WriteLine is kinda slow. Use at your own risk.
+        // You may try it with a lower number - 10000; If you want to test it with 10 000 000, type in length (or just 10 000 000) in the FOR cycle below, instead of 10 000
 
-        //for (int i = 0; i < length; i++)
-        //{
-        //    if (numbersArray[i] == true)
-        //    {
-        //        Console.Write("{0} ", i);
-        //    }
-        //}
+        for (int i = 0; i < 10000; i++)
+        {
+            if (numbersArray[i] == true)
+            {
+                Console.Write("{0} ", i);
+            }
+        }
     }
 }

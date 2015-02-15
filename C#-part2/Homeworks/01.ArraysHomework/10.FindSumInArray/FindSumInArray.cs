@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 // Write a program that finds in given array of integers a sequence of given sum S (if present).
 /*
@@ -26,6 +23,7 @@ class FindSumInArray
         int.TryParse(Console.ReadLine(), out sumToFind);
         int startingIndex = 0;
         int endingIndex = 0;
+
         for (int index = 0; index < arrayLength; index++)
         {
             int currentSum = numbersArray[index];

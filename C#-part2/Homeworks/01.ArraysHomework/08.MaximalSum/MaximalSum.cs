@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 // Write a program that finds the sequence of maximal sum in given array.
 // Can you do it with only one loop (with single scan through the elements of the array)?

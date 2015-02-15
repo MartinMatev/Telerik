@@ -1,13 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 // Write a program that reads two integer arrays from the console and compares them element by element.
 class CompareArrays
 {
-    static void Main(string[] args)
+    static void Main()
     {
         Console.Write("Enter first array's digits separated by comma or space: ");
         int[] firstArray = Console.ReadLine().Split(new char[] { ' ', ',', '\t' }, StringSplitOptions.RemoveEmptyEntries)

@@ -6,3 +6,5 @@ C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\AllocateArra
 C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\AllocateArray\obj\Debug\AllocateArray.pdb
 C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\AllocateArray\bin\Debug\AllocateArray.exe
 C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\AllocateArray\bin\Debug\AllocateArray.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\AllocateArray\bin\Debug\AllocateArray.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\AllocateArray\bin\Debug\AllocateArray.pdb
