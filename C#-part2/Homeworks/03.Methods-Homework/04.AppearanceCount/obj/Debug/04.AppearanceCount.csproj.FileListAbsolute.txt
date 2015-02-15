@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Methods-Homework\04.AppearanceCount\bin\Debug\04.AppearanceCount.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\04.AppearanceCount\bin\Debug\04.AppearanceCount.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\04.AppearanceCount\bin\Debug\04.AppearanceCount.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\04.AppearanceCount\obj\Debug\04.AppearanceCount.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\04.AppearanceCount\obj\Debug\04.AppearanceCount.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\04.AppearanceCount\obj\Debug\04.AppearanceCount.pdb

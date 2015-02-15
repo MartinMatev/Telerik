@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\08.NumberAsArray\bin\Debug\08.NumberAsArray.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\08.NumberAsArray\bin\Debug\08.NumberAsArray.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\08.NumberAsArray\bin\Debug\08.NumberAsArray.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\08.NumberAsArray\obj\Debug\08.NumberAsArray.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\08.NumberAsArray\obj\Debug\08.NumberAsArray.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\08.NumberAsArray\obj\Debug\08.NumberAsArray.pdb

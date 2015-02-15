@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\Methods-Homework\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Methods-Homework\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe
+c:\users\marto\documents\visual studio 2013\Projects\Methods-Homework\03.EnglishDigit\bin\Debug\03.EnglishDigit.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Methods-Homework\03.EnglishDigit\obj\Debug\03.EnglishDigit.exe
+c:\users\marto\documents\visual studio 2013\Projects\Methods-Homework\03.EnglishDigit\obj\Debug\03.EnglishDigit.pdb

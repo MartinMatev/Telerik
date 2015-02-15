@@ -4,3 +4,6 @@ c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homewo
 c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\1.SumOfThreeNums\obj\Debug\1.SumOfThreeNums.csprojResolveAssemblyReference.cache
 c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\1.SumOfThreeNums\obj\Debug\1.SumOfThreeNums.exe
 c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\1.SumOfThreeNums\obj\Debug\1.SumOfThreeNums.pdb
+C:\Users\Marto\Documents\GitHub\Telerik\C#-part1\Homeworks\04.Console-Input-Output-Homework\1.SumOfThreeNums\bin\Debug\1.SumOfThreeNums.exe.config
+C:\Users\Marto\Documents\GitHub\Telerik\C#-part1\Homeworks\04.Console-Input-Output-Homework\1.SumOfThreeNums\obj\Debug\1.SumOfThreeNums.exe
+C:\Users\Marto\Documents\GitHub\Telerik\C#-part1\Homeworks\04.Console-Input-Output-Homework\1.SumOfThreeNums\obj\Debug\1.SumOfThreeNums.pdb

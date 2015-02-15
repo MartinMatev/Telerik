@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\14.IntegerCalcs(INCLUDES)15.NumberCalc\bin\Debug\14.IntegerCalcs(INCLUDES)15.NumberCalc.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\14.IntegerCalcs(INCLUDES)15.NumberCalc\bin\Debug\14.IntegerCalcs(INCLUDES)15.NumberCalc.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\14.IntegerCalcs(INCLUDES)15.NumberCalc\bin\Debug\14.IntegerCalcs(INCLUDES)15.NumberCalc.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\14.IntegerCalcs(INCLUDES)15.NumberCalc\obj\Debug\14.IntegerCalcs(INCLUDES)15.NumberCalc.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\14.IntegerCalcs(INCLUDES)15.NumberCalc\obj\Debug\14.IntegerCalcs(INCLUDES)15.NumberCalc.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\14.IntegerCalcs(INCLUDES)15.NumberCalc\obj\Debug\14.IntegerCalcs(INCLUDES)15.NumberCalc.pdb

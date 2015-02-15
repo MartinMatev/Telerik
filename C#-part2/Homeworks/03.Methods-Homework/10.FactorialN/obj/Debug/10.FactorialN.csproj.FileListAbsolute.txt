@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\10.FactorialN\bin\Debug\10.FactorialN.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\10.FactorialN\bin\Debug\10.FactorialN.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\10.FactorialN\bin\Debug\10.FactorialN.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\10.FactorialN\obj\Debug\10.FactorialN.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\10.FactorialN\obj\Debug\10.FactorialN.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\10.FactorialN\obj\Debug\10.FactorialN.pdb

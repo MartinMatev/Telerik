@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\05.LargerThanNeighbours\obj\Debug\05.LargerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\05.LargerThanNeighbours\obj\Debug\05.LargerThanNeighbours.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\05.LargerThanNeighbours\obj\Debug\05.LargerThanNeighbours.pdb

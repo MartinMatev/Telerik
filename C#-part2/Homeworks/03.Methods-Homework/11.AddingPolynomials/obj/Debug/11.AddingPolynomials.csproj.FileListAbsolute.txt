@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Methods-Homework\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.pdb
