@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ClassesAndObjects-Homework\06.SumIntegers\bin\Debug\06.SumIntegers.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ClassesAndObjects-Homework\06.SumIntegers\bin\Debug\06.SumIntegers.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ClassesAndObjects-Homework\06.SumIntegers\bin\Debug\06.SumIntegers.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ClassesAndObjects-Homework\06.SumIntegers\obj\Debug\06.SumIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ClassesAndObjects-Homework\06.SumIntegers\obj\Debug\06.SumIntegers.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ClassesAndObjects-Homework\06.SumIntegers\obj\Debug\06.SumIntegers.pdb
