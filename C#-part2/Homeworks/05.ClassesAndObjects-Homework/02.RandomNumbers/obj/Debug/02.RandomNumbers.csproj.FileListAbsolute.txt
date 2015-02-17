@@ -3,3 +3,4 @@ C:\Users\Marto\Documents\Visual Studio 2013\Projects\ClassesAndObjects-Homework\
 C:\Users\Marto\Documents\Visual Studio 2013\Projects\ClassesAndObjects-Homework\02.RandomNumbers\bin\Debug\02.RandomNumbers.pdb
 C:\Users\Marto\Documents\Visual Studio 2013\Projects\ClassesAndObjects-Homework\02.RandomNumbers\obj\Debug\02.RandomNumbers.exe
 C:\Users\Marto\Documents\Visual Studio 2013\Projects\ClassesAndObjects-Homework\02.RandomNumbers\obj\Debug\02.RandomNumbers.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ClassesAndObjects-Homework\02.RandomNumbers\obj\Debug\02.RandomNumbers.csprojResolveAssemblyReference.cache
