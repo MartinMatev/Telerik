@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ClassesAndObjects-Homework\07.ArithmeticalExpressions\bin\Debug\07.ArithmeticalExpressions.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ClassesAndObjects-Homework\07.ArithmeticalExpressions\bin\Debug\07.ArithmeticalExpressions.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ClassesAndObjects-Homework\07.ArithmeticalExpressions\bin\Debug\07.ArithmeticalExpressions.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ClassesAndObjects-Homework\07.ArithmeticalExpressions\obj\Debug\07.ArithmeticalExpressions.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ClassesAndObjects-Homework\07.ArithmeticalExpressions\obj\Debug\07.ArithmeticalExpressions.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ClassesAndObjects-Homework\07.ArithmeticalExpressions\obj\Debug\07.ArithmeticalExpressions.pdb

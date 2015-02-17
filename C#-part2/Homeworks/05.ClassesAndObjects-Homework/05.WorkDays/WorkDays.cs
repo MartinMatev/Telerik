@@ -10,7 +10,7 @@ class WorkDays
 {
     private static DateTime today;
     private static DateTime lastDate;
-    private static int allDays;
+    private static int workDays;
     static void Main()
     {
         lastDate = GetLastDate();
@@ -19,6 +19,7 @@ class WorkDays
 
     private static void CalculateWorkDays(DateTime lastDate)
     {
+        // Making an array of type DateTime to store the official holidays of 2015
         DateTime[] holidays = 
         {
             new DateTime(2015, 1, 1),
@@ -35,7 +36,7 @@ class WorkDays
             new DateTime(2015, 12, 25),
             new DateTime(2015, 12, 31)
         };
-
+        // And an array storing the working out days (дни за отработване демек)
         DateTime[] workingOutDays = 
         {
             new DateTime(2015, 1, 24),
@@ -45,28 +46,33 @@ class WorkDays
         };
 
         today = DateTime.Today;
-        allDays = (lastDate - today).Days;
+        workDays = (lastDate - today).Days;
 
         while (lastDate >= today)
         {
+            // Check if the current day is either saturday or sunday
             if ((today.DayOfWeek == DayOfWeek.Saturday) || today.DayOfWeek == DayOfWeek.Sunday)
             {
+                // If it is, check if its not a day for отработване
                 for (int i = 0; i < workingOutDays.Length; i++)
                 {
+                    // If by chance it is, go be sad at work and add a day towards the work days count
                     if (today == workingOutDays[i])
                     {
-                        allDays++;
+                        workDays++;
                     }
                 }
-                allDays--;
+                workDays--;
             }
             else
             {
+                // If the current day is between Monday - Friday, check if it's not an official holiday,
+                // by looping through all of the data of the holiday array
                 for (int i = 0; i < holidays.Length; i++)
                 {
                     if (today == holidays[i])
                     {
-                        allDays--;
+                        workDays--;
                     }
                 }
 
@@ -74,10 +80,11 @@ class WorkDays
                 {
                     if (today == workingOutDays[j])
                     {
-                        allDays++;
+                        workDays++;
                     }
                 }
             }
+            // Change the current day with the next one, using mystical Godly powers
             today = today.AddDays(1);
         }
         PrintResult();
@@ -85,7 +92,7 @@ class WorkDays
 
     private static void PrintResult()
     {
-        Console.WriteLine("There are {0} working days in that period!", allDays);
+        Console.WriteLine("There are {0} working days in that period!", workDays);
     }
 
     private static DateTime GetLastDate()
