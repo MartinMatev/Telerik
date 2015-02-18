@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\ExceptionHandling-Homework\04.DownloadFile\bin\Debug\04.DownloadFile.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\ExceptionHandling-Homework\04.DownloadFile\bin\Debug\04.DownloadFile.exe
+c:\users\marto\documents\visual studio 2013\Projects\ExceptionHandling-Homework\04.DownloadFile\bin\Debug\04.DownloadFile.pdb
+c:\users\marto\documents\visual studio 2013\Projects\ExceptionHandling-Homework\04.DownloadFile\obj\Debug\04.DownloadFile.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\ExceptionHandling-Homework\04.DownloadFile\obj\Debug\04.DownloadFile.exe
+c:\users\marto\documents\visual studio 2013\Projects\ExceptionHandling-Homework\04.DownloadFile\obj\Debug\04.DownloadFile.pdb
