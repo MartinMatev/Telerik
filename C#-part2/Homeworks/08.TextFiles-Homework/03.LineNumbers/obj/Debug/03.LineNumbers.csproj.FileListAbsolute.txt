@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\03.LineNumbers\bin\Debug\03.LineNumbers.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\03.LineNumbers\bin\Debug\03.LineNumbers.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\03.LineNumbers\bin\Debug\03.LineNumbers.pdb
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\03.LineNumbers\obj\Debug\03.LineNumbers.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\03.LineNumbers\obj\Debug\03.LineNumbers.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\03.LineNumbers\obj\Debug\03.LineNumbers.pdb

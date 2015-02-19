@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\05.MaximalAreaSum\bin\Debug\05.MaximalAreaSum.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\05.MaximalAreaSum\bin\Debug\05.MaximalAreaSum.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\05.MaximalAreaSum\bin\Debug\05.MaximalAreaSum.pdb
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\05.MaximalAreaSum\obj\Debug\05.MaximalAreaSum.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\05.MaximalAreaSum\obj\Debug\05.MaximalAreaSum.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\05.MaximalAreaSum\obj\Debug\05.MaximalAreaSum.pdb

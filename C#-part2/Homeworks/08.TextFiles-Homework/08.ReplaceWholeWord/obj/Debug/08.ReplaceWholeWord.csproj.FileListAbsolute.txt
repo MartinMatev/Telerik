@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\08.ReplaceWholeWord\bin\Debug\08.ReplaceWholeWord.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\08.ReplaceWholeWord\bin\Debug\08.ReplaceWholeWord.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\08.ReplaceWholeWord\bin\Debug\08.ReplaceWholeWord.pdb
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\08.ReplaceWholeWord\obj\Debug\08.ReplaceWholeWord.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\08.ReplaceWholeWord\obj\Debug\08.ReplaceWholeWord.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\08.ReplaceWholeWord\obj\Debug\08.ReplaceWholeWord.pdb

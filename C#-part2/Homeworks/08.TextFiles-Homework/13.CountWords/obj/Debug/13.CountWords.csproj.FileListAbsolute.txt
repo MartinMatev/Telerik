@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\13.CountWords\bin\Debug\13.CountWords.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\13.CountWords\bin\Debug\13.CountWords.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\13.CountWords\bin\Debug\13.CountWords.pdb
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\13.CountWords\obj\Debug\13.CountWords.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\13.CountWords\obj\Debug\13.CountWords.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\13.CountWords\obj\Debug\13.CountWords.pdb

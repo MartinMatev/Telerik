@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.pdb
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.pdb

@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\12.RemoveWords\bin\Debug\12.RemoveWords.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\12.RemoveWords\obj\Debug\12.RemoveWords.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\12.RemoveWords\bin\Debug\12.RemoveWords.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\12.RemoveWords\bin\Debug\12.RemoveWords.pdb
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\12.RemoveWords\obj\Debug\12.RemoveWords.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\12.RemoveWords\obj\Debug\12.RemoveWords.pdb

@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\07.ReplaceSubString\bin\Debug\07.ReplaceSubString.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\07.ReplaceSubString\bin\Debug\07.ReplaceSubString.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\07.ReplaceSubString\bin\Debug\07.ReplaceSubString.pdb
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\07.ReplaceSubString\obj\Debug\07.ReplaceSubString.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\07.ReplaceSubString\obj\Debug\07.ReplaceSubString.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\07.ReplaceSubString\obj\Debug\07.ReplaceSubString.pdb

@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.pdb
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.pdb

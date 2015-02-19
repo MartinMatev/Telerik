@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\06.SaveSortedNames\bin\Debug\06.SaveSortedNames.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\06.SaveSortedNames\bin\Debug\06.SaveSortedNames.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\06.SaveSortedNames\bin\Debug\06.SaveSortedNames.pdb
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\06.SaveSortedNames\obj\Debug\06.SaveSortedNames.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\06.SaveSortedNames\obj\Debug\06.SaveSortedNames.pdb

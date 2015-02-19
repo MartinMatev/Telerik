@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\10.ExtractXml\bin\Debug\10.ExtractXml.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\10.ExtractXml\bin\Debug\10.ExtractXml.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\10.ExtractXml\bin\Debug\10.ExtractXml.pdb
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\10.ExtractXml\obj\Debug\10.ExtractXml.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\10.ExtractXml\obj\Debug\10.ExtractXml.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\10.ExtractXml\obj\Debug\10.ExtractXml.pdb

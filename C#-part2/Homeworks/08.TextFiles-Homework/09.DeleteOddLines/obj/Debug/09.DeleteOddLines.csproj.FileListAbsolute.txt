@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.pdb
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.exe
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.pdb
+c:\users\marto\documents\visual studio 2013\Projects\TextFiles-Homework\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.csprojResolveAssemblyReference.cache
