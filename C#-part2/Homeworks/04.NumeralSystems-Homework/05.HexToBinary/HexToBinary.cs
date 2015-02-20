@@ -25,6 +25,7 @@ class HexToBinary
             }
             else
             {
+                // Lets say digit contains 'C'-> the ASCII representation of 'C' is 67; 67 - 65 (ASCII for 'A') = 2; 2 + 10 = 12 (which is the decimal representation of 'C').
                 decimalDigit = (digit - 'A') + 10;
             }
 

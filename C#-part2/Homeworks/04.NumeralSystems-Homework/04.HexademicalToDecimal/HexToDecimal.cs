@@ -22,6 +22,8 @@ class HexToDecimal
             }
             else if (digit >= 'A' && digit <= 'F')
             {
+                // Lets say digit contains 'C'-> the ASCII representation of 'C' is 67; 67 - 65 (ASCII for 'A') = 2; 
+                // 2 + 10 = 12 (which is the decimal representation of 'C') * the base (16) ^ length - i - 1.
                 decimalNum += (digit - 'A' + 10) * (int)Math.Pow(16, length - i - 1);
             }
         }

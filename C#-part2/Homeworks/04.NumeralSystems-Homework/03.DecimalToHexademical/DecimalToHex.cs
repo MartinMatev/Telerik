@@ -29,7 +29,7 @@ class DecimalToHex
             }
             else
             {
-                // As magical as it might seem, 55 is the ASCII for 'A'
+                // As magical as it might seem, 55 is the ASCII for 7 -> 55 + 10 = 65 (ASCII code for 'A') etc..
                 hexNum = (char)(remainder + 55) + hexNum;
             }
             decimalNum /= 16;

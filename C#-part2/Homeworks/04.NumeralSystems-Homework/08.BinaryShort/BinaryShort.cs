@@ -13,6 +13,7 @@ class BinaryShort
     private static void ConvertToBinary(short number)
     {
         string binaryNumber = "";
+        // i < 16, because thats the maximum amount of bits that a `short` can have
         for (int i = 0; i < 16; i++)
         {
             // Grab a bit, bitwise & it to 1 and put in INFRONT of the previous one in the binaryNumber string

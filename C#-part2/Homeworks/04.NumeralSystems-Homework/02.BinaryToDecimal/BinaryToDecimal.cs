@@ -15,6 +15,7 @@ class BinaryToDecimal
         int length = binaryNumber.Length;
         for (int i = 0; i < length; i++)
         {
+            // We take the LAST number of the input using the length-i-1 method and multiply it with the BASE of the binary system (2) ^ 0, then we take the second to last  * 2 ^ 1 etc... 
             decimalNumber += (binaryNumber[length - i - 1] - '0') * (long)Math.Pow(2, i);
         }
         PrintDecimalNumber(decimalNumber);

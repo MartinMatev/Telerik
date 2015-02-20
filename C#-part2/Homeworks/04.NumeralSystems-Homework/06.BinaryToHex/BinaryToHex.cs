@@ -31,7 +31,7 @@ class BinaryToHex
             }
             else
             {
-                // As magical as it might seem, 55 is the ASCII for 'A' -> 55 + 10 = A, 55 + 11 = B etc.
+                // As magical as it might seem, 55 is the ASCII for 7 -> 55 + 10 = 'A'(ASCII = 65), 55 + 11 = 'B'(ASCII = 66) etc.
                 hexNum = (char)(remainder + 55) + hexNum;
             }
             decimalNum /= 16;

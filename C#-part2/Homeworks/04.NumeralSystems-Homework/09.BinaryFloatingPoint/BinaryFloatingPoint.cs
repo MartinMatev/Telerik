@@ -19,7 +19,7 @@ class BinaryFloatingPoint
     private static void ConvertToBits(float floatNumber)
     {
         int decimalNumber = BitConverter.ToInt32(BitConverter.GetBytes(floatNumber), 0);
-        string numberInBits = Convert.ToString(decimalNumber, 2);
+        string numberInBits = Convert.ToString(decimalNumber, 2);   // Converts the float number to string and to it's binary format
         ExtractParts(numberInBits);
     }
 
