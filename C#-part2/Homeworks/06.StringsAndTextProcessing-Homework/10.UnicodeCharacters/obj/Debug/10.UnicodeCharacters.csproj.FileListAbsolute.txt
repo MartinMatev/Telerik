@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.pdb

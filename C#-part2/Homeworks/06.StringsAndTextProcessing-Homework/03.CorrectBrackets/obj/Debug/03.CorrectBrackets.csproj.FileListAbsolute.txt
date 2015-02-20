@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\03.CorrectBrackets\obj\Debug\03.CorrectBrackets.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\03.CorrectBrackets\obj\Debug\03.CorrectBrackets.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\03.CorrectBrackets\obj\Debug\03.CorrectBrackets.csprojResolveAssemblyReference.cache

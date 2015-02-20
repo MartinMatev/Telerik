@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\05.ParseTags\bin\Debug\05.ParseTags.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\05.ParseTags\bin\Debug\05.ParseTags.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\05.ParseTags\bin\Debug\05.ParseTags.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\05.ParseTags\obj\Debug\05.ParseTags.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\05.ParseTags\obj\Debug\05.ParseTags.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\05.ParseTags\obj\Debug\05.ParseTags.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\01.StringsInC\bin\Debug\01.StringsInC.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\01.StringsInC\bin\Debug\01.StringsInC.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\01.StringsInC\bin\Debug\01.StringsInC.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\01.StringsInC\obj\Debug\01.StringsInC.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\01.StringsInC\obj\Debug\01.StringsInC.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\01.StringsInC\obj\Debug\01.StringsInC.pdb

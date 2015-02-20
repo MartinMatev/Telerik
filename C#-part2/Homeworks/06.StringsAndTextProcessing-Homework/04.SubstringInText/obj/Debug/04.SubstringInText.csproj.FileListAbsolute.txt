@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\04.SubstringInText\bin\Debug\04.SubstringInText.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\04.SubstringInText\bin\Debug\04.SubstringInText.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\04.SubstringInText\bin\Debug\04.SubstringInText.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\04.SubstringInText\obj\Debug\04.SubstringInText.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\04.SubstringInText\obj\Debug\04.SubstringInText.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\04.SubstringInText\obj\Debug\04.SubstringInText.pdb
