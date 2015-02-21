@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\13.ReverseSentence\bin\Debug\13.ReverseSentence.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\13.ReverseSentence\bin\Debug\13.ReverseSentence.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\13.ReverseSentence\bin\Debug\13.ReverseSentence.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\13.ReverseSentence\obj\Debug\13.ReverseSentence.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\13.ReverseSentence\obj\Debug\13.ReverseSentence.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\13.ReverseSentence\obj\Debug\13.ReverseSentence.pdb

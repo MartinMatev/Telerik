@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\12.ParseUrl\bin\Debug\12.ParseUrl.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\12.ParseUrl\bin\Debug\12.ParseUrl.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\12.ParseUrl\bin\Debug\12.ParseUrl.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\12.ParseUrl\obj\Debug\12.ParseUrl.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\12.ParseUrl\obj\Debug\12.ParseUrl.pdb
