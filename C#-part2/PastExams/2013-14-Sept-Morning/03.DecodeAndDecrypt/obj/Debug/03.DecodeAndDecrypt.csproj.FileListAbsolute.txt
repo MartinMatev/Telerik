@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-14-Sept-Morning\03.DecodeAndDecrypt\bin\Debug\03.DecodeAndDecrypt.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-14-Sept-Morning\03.DecodeAndDecrypt\bin\Debug\03.DecodeAndDecrypt.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-14-Sept-Morning\03.DecodeAndDecrypt\bin\Debug\03.DecodeAndDecrypt.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-14-Sept-Morning\03.DecodeAndDecrypt\obj\Debug\03.DecodeAndDecrypt.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-14-Sept-Morning\03.DecodeAndDecrypt\obj\Debug\03.DecodeAndDecrypt.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-14-Sept-Morning\03.DecodeAndDecrypt\obj\Debug\03.DecodeAndDecrypt.pdb

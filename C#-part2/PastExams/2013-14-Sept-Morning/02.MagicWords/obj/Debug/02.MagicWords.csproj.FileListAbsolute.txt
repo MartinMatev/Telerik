@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-14-Sept-Morning\02.MagicWords\bin\Debug\02.MagicWords.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-14-Sept-Morning\02.MagicWords\bin\Debug\02.MagicWords.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-14-Sept-Morning\02.MagicWords\bin\Debug\02.MagicWords.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-14-Sept-Morning\02.MagicWords\obj\Debug\02.MagicWords.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-14-Sept-Morning\02.MagicWords\obj\Debug\02.MagicWords.pdb
