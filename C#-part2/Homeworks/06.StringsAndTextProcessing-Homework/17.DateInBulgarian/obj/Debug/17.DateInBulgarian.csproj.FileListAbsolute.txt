@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\17.DateInBulgarian\bin\Debug\17.DateInBulgarian.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\17.DateInBulgarian\bin\Debug\17.DateInBulgarian.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\17.DateInBulgarian\bin\Debug\17.DateInBulgarian.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\17.DateInBulgarian\obj\Debug\17.DateInBulgarian.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\17.DateInBulgarian\obj\Debug\17.DateInBulgarian.pdb

@@ -10,22 +10,23 @@ using System.Text.RegularExpressions;
  * Example: 
  * We are living in a <upcase>yellow submarine</upcase>. We don't have <upcase>anything</upcase> else.
  * 
- * The expected result: We are living in a YELLOW SUBMARINE. We don't have ANYTHING else.
+ * The expected result: 
+ * We are living in a YELLOW SUBMARINE. We don't have ANYTHING else.
  */
 class ParseTags
 {
     static void Main()
     {
         string inputText = GetInput();
-        
+
         // Version 1: Regex and stuff. 2 lines. Happy times.
         string result = Regex.Replace(inputText, "<upcase>(.*?)</upcase>", x => x.Groups[1].Value.ToUpper());
-        Console.WriteLine(result);
+        Console.WriteLine("\nResult:\n{0}", result);
 
 
-        // Version 2: that other way, again... I died a little inside.
+        ////Version 2: that other way, again... I died a little inside.
         //string result = ChangeText(inputText);
-        //Console.WriteLine(result);
+        //Console.WriteLine("\nResult:\n{0}",result);
     }
 
     private static string ChangeText(string text)

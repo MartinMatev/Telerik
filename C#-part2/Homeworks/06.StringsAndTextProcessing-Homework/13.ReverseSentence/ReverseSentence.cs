@@ -20,10 +20,10 @@ class ReverseSentence
     private static void SentenceReverser(string input)
     {
         // A regex string, containing all of the punctation
-        // \s+|,\s*|   => matches `,`
-        // \.          => matches `.`
-        // \s*|!\s*|   => matches `!`
-        // \s+|;\s*|   => matches `;`
+        // \s+|,\s*   => means every whitespace (1 or more) OR `,` + every whitespace (0 or more)
+        // \.         => means `.`
+        // \s*|!\s*   => means every whitespace (0 or more) OR `!` + every whitespace (0 or more)
+        // \s+|;\s*   => means every whitespace (1 or more) OR `;` + every whitespace (0 or more)
         string punctuation = @"\s+|,\s*|\.\s*|!\s*|\s+|;\s*|$";
         Stack<string> words = new Stack<string>();
 

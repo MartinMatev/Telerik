@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\25.ExtractTextFromHTML\obj\Debug\25.ExtractTextFromHTML.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\25.ExtractTextFromHTML\obj\Debug\25.ExtractTextFromHTML.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\25.ExtractTextFromHTML\obj\Debug\25.ExtractTextFromHTML.csprojResolveAssemblyReference.cache

@@ -20,6 +20,7 @@ class CorrectBrackets
         int rightBracketCounter = 0;
         for (int i = 0; i < input.Length; i++)
         {
+            // If the first element is a closing bracket or the last one is an opening one, it's incorrect
             if (input[0] == ')' || input[input.Length - 1] == '(')
             {
                 return false;

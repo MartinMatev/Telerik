@@ -15,7 +15,7 @@ class StringsInC
         {
             while (!reader.EndOfStream)
             {
-                // Ctrl-5 for the wall of copy-pastery.
+                // Ctrl-F5 for the wall of copy-pastery.
                 string line = reader.ReadLine();
                 Console.WriteLine(line);
             }

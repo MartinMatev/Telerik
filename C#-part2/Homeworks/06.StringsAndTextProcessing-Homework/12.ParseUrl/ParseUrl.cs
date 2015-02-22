@@ -26,6 +26,7 @@ class ParseUrl
         // Make a new object called currentUrl of the Uri class (guess thats a thing in .Net)
         Uri currentUrl = new Uri(url);
 
+        // Use demonic powers to initialize the variables. Also the Uri class functionality.
         string protocol = currentUrl.Scheme;
         string server = currentUrl.Host;
         string resources = currentUrl.AbsolutePath;

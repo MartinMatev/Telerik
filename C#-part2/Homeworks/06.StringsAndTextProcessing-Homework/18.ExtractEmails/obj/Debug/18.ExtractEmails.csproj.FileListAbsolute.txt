@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\18.ExtractEmails\bin\Debug\18.ExtractEmails.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\18.ExtractEmails\obj\Debug\18.ExtractEmails.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\18.ExtractEmails\bin\Debug\18.ExtractEmails.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\18.ExtractEmails\bin\Debug\18.ExtractEmails.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\18.ExtractEmails\obj\Debug\18.ExtractEmails.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\18.ExtractEmails\obj\Debug\18.ExtractEmails.pdb

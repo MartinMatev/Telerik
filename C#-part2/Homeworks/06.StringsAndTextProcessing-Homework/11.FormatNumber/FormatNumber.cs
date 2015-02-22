@@ -11,10 +11,10 @@ class FormatNumber
         try
         {
             int inputNumber = GetInput();
-            Console.WriteLine("Decimal form: {0,15:D}", inputNumber);
-            Console.WriteLine("Hexademical form: {0,15:X}", inputNumber);
+            Console.WriteLine("Dec form: {0,15:D}", inputNumber);
+            Console.WriteLine("Hex form: {0,15:X}", inputNumber);
             Console.WriteLine("Percentage: {0,15:P}", inputNumber);
-            Console.WriteLine("Scientific notaion: {0,15:E}", inputNumber);
+            Console.WriteLine("Sci notaion: {0,15:E}", inputNumber);
         }
         catch (FormatException e)
         {

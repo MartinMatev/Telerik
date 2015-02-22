@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\22.WordsCount\bin\Debug\22.WordsCount.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\22.WordsCount\bin\Debug\22.WordsCount.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\22.WordsCount\bin\Debug\22.WordsCount.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\22.WordsCount\obj\Debug\22.WordsCount.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\22.WordsCount\obj\Debug\22.WordsCount.pdb

@@ -8,8 +8,10 @@ using System.Text.RegularExpressions;
  * 
  * The target sub-string is `in`
  * 
- * The text is as follows: We are living in an yellow submarine. We don't have anything else. 
- * inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.
+ * The text is as follows: 
+ * 
+ * We are living in an yellow submarine. We don't have anything else. inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.
+ 
  * The result is: 9
  */
 class SubstringInText
@@ -18,14 +20,14 @@ class SubstringInText
         {
             string keyWord = GetData("keyword");
             string text = GetData("text");//.Replace(" ", string.Empty);
-            
+
             // Version 1: using Regex
             MatchCollection result = Regex.Matches(text, keyWord, RegexOptions.IgnoreCase);
-            Console.WriteLine(result.Count);
+            Console.WriteLine("\nThe result is: {0}", result.Count);
 
-            // Version 2: that other way, that is also slow and makes me type more. 
+            ////Version 2: that other way, that is also slow and makes me type more. 
             //int result = CountSubstrings(keyWord, text);
-            //Console.WriteLine(result);
+            //Console.WriteLine("\nThe result is: {0}", result);
         }
 
         private static int CountSubstrings(string keyWord, string text)
@@ -37,7 +39,7 @@ class SubstringInText
         private static string GetData(string p)
         {
             Console.WriteLine("Enter the {0} below: ", p);
-            Console.Write(">>");
+            Console.Write(">> ");
             return Console.ReadLine();
         }
     }

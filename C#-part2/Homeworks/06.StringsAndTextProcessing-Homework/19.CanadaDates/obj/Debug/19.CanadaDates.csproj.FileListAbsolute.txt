@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\19.CanadaDates\bin\Debug\19.CanadaDates.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\19.CanadaDates\bin\Debug\19.CanadaDates.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\19.CanadaDates\bin\Debug\19.CanadaDates.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\19.CanadaDates\obj\Debug\19.CanadaDates.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\19.CanadaDates\obj\Debug\19.CanadaDates.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing-Homework\19.CanadaDates\obj\Debug\19.CanadaDates.pdb

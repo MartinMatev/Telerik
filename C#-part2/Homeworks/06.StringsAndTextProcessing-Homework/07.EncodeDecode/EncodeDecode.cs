@@ -22,6 +22,7 @@ class EncodeDecode
     private static string Encrypt(string cyper, string text)
     {
         StringBuilder result = new StringBuilder();
+
         for (int i = 0; i < text.Length; i++)
         {
             result.Append((char)(cyper[i % cyper.Length] ^ text[i]));           
