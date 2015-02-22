@@ -22,9 +22,9 @@ class SolveTasks
     static void Main()
     {
         ConsoleKeyInfo pressedKey = ChooseOperation();
-        Console.ReadLine();
 
         do{
+            Console.ReadLine();
             if (pressedKey.Key == ConsoleKey.D1)
             {
                 decimal number = GetNumberToReverse();
@@ -49,24 +49,12 @@ class SolveTasks
             {
                 GetEquation();
             }
-            PrintRetardedMessage();
-            pressedKey = ChooseOperation();
+
+            if (pressedKey.Key != ConsoleKey.Escape)    
+                pressedKey = ChooseOperation();
         }
         while (pressedKey.Key != ConsoleKey.Escape);
         Console.WriteLine("K, bye.");
-    }
-
-    private static void PrintRetardedMessage()
-    {
-        Console.Write(new string('-', 15));
-        Console.Write("666");
-        Console.WriteLine(new string('-', 15));
-        Console.Write(new string(' ', 5));
-        Console.Write("THE RIDE NEVER ENDS");
-        Console.WriteLine(new string(' ', 5));
-        Console.Write(new string('-', 15));
-        Console.Write("999");
-        Console.WriteLine(new string('-', 15));
     }
 
     private static void GetEquation()
@@ -74,7 +62,7 @@ class SolveTasks
         decimal a;
         do 
         {
-            Console.Write("Type in non-zero A:");
+            Console.Write("Type in non-zero A: ");
             a = decimal.Parse(Console.ReadLine());
         }
         while (a == 0);
@@ -110,7 +98,9 @@ class SolveTasks
 
     private static void PrintResult(decimal number, string from)
     {
-        Console.WriteLine("{0} result = {1}", from, number); 
+        Console.WriteLine(new string('-', 30));
+        Console.WriteLine("{0} result = {1}", from, number);
+        Console.WriteLine(new string('-', 30));
     }
 
     private static decimal GetNumberToReverse()
@@ -132,7 +122,7 @@ class SolveTasks
         Console.WriteLine();
         Console.WriteLine("[1] Reversing the digits of a number");
         Console.WriteLine("[2] Calculation of avarage of a sequence of integers");
-        Console.WriteLine("[3] Solving linear equation {a * x + b = c}");
+        Console.WriteLine("[3] Solving linear equation {a * x + b = 0}");
         Console.WriteLine("[ESCAPE] I die a little inside everytime you press this");
         return Console.ReadKey();
     }
