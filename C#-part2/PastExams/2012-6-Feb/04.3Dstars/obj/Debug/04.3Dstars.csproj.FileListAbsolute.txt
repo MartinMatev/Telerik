@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-6-Feb\04.3Dstars\bin\Debug\04.3Dstars.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-6-Feb\04.3Dstars\bin\Debug\04.3Dstars.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-6-Feb\04.3Dstars\bin\Debug\04.3Dstars.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-6-Feb\04.3Dstars\obj\Debug\04.3Dstars.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-6-Feb\04.3Dstars\obj\Debug\04.3Dstars.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-6-Feb\04.3Dstars\obj\Debug\04.3Dstars.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-6-Feb\02.7SegmentDisplay\bin\Debug\02.7SegmentDisplay.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-6-Feb\02.7SegmentDisplay\bin\Debug\02.7SegmentDisplay.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-6-Feb\02.7SegmentDisplay\bin\Debug\02.7SegmentDisplay.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-6-Feb\02.7SegmentDisplay\obj\Debug\02.7SegmentDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-6-Feb\02.7SegmentDisplay\obj\Debug\02.7SegmentDisplay.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-6-Feb\02.7SegmentDisplay\obj\Debug\02.7SegmentDisplay.pdb

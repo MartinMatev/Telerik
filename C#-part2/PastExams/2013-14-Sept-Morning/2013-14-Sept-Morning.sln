@@ -7,9 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MultiverseCommunication"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MagicWords", "02.MagicWords\02.MagicWords.csproj", "{A2F94FF0-89D7-427E-B647-B4BFBB9B3A39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.DecodeAndDecrypt", "03.DecodeAndDecrypt\03.DecodeAndDecrypt.csproj", "{25FB03F4-87EE-4834-BFD7-485AD8186FEF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.DecodeAndDecrypt", "03.DecodeAndDecrypt\04.DecodeAndDecrypt.csproj", "{25FB03F4-87EE-4834-BFD7-485AD8186FEF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.FeaturingWithGrisko", "05.FeaturingWithGrisko\05.FeaturingWithGrisko.csproj", "{ED8B07E9-062E-4BED-B785-9838AAD85CE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Tron3D", "03.Tron3D\03.Tron3D.csproj", "{DD082672-4CEF-4F7D-99F0-3C4BBAFE1542}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{ED8B07E9-062E-4BED-B785-9838AAD85CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED8B07E9-062E-4BED-B785-9838AAD85CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED8B07E9-062E-4BED-B785-9838AAD85CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD082672-4CEF-4F7D-99F0-3C4BBAFE1542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD082672-4CEF-4F7D-99F0-3C4BBAFE1542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD082672-4CEF-4F7D-99F0-3C4BBAFE1542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD082672-4CEF-4F7D-99F0-3C4BBAFE1542}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
