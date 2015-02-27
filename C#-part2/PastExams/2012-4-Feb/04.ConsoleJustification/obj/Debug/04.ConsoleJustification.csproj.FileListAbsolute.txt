@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-4-Feb\04.ConsoleJustification\bin\Debug\04.ConsoleJustification.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-4-Feb\04.ConsoleJustification\bin\Debug\04.ConsoleJustification.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-4-Feb\04.ConsoleJustification\bin\Debug\04.ConsoleJustification.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-4-Feb\04.ConsoleJustification\obj\Debug\04.ConsoleJustification.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-4-Feb\04.ConsoleJustification\obj\Debug\04.ConsoleJustification.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-4-Feb\04.ConsoleJustification\obj\Debug\04.ConsoleJustification.pdb

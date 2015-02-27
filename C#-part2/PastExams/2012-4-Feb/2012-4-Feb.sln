@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GreedyDwarf", "02.Greedy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Slides", "03.Slides\03.Slides.csproj", "{F00CB0B0-F448-463E-B8D4-58C71862314F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ConsoleJustification", "04.ConsoleJustification\04.ConsoleJustification.csproj", "{37ACDE25-A9C1-4641-898B-71A526CC9004}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F00CB0B0-F448-463E-B8D4-58C71862314F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F00CB0B0-F448-463E-B8D4-58C71862314F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F00CB0B0-F448-463E-B8D4-58C71862314F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37ACDE25-A9C1-4641-898B-71A526CC9004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37ACDE25-A9C1-4641-898B-71A526CC9004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37ACDE25-A9C1-4641-898B-71A526CC9004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37ACDE25-A9C1-4641-898B-71A526CC9004}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
