@@ -1,0 +1,2 @@
+c:\users\matev\documents\visual studio 2013\Projects\2014-22-Jan\03.Patterns\bin\Debug\03.Patterns.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-22-Jan\03.Patterns\bin\Debug\03.Patterns.exe.config

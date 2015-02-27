@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\2012-4-Feb\02.GreedyDwarf\bin\Debug\02.GreedyDwarf.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-4-Feb\02.GreedyDwarf\bin\Debug\02.GreedyDwarf.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-4-Feb\02.GreedyDwarf\bin\Debug\02.GreedyDwarf.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-4-Feb\02.GreedyDwarf\obj\Debug\02.GreedyDwarf.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-4-Feb\02.GreedyDwarf\obj\Debug\02.GreedyDwarf.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-4-Feb\02.GreedyDwarf\obj\Debug\02.GreedyDwarf.pdb

@@ -1,0 +1,9 @@
+c:\users\matev\documents\visual studio 2013\Projects\2014-22-Jan\01.Tres4Numbers\bin\Debug\01.Tres4Numbers.exe.config
+c:\users\matev\documents\visual studio 2013\Projects\2014-22-Jan\01.Tres4Numbers\bin\Debug\01.Tres4Numbers.exe
+c:\users\matev\documents\visual studio 2013\Projects\2014-22-Jan\01.Tres4Numbers\bin\Debug\01.Tres4Numbers.pdb
+c:\users\matev\documents\visual studio 2013\Projects\2014-22-Jan\01.Tres4Numbers\obj\Debug\01.Tres4Numbers.csprojResolveAssemblyReference.cache
+c:\users\matev\documents\visual studio 2013\Projects\2014-22-Jan\01.Tres4Numbers\obj\Debug\01.Tres4Numbers.exe
+c:\users\matev\documents\visual studio 2013\Projects\2014-22-Jan\01.Tres4Numbers\obj\Debug\01.Tres4Numbers.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-22-Jan\01.Tres4Numbers\bin\Debug\01.Tres4Numbers.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-22-Jan\01.Tres4Numbers\obj\Debug\01.Tres4Numbers.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-22-Jan\01.Tres4Numbers\obj\Debug\01.Tres4Numbers.pdb
