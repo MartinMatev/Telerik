@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-4-Feb\05.OneTaskIsNotEnough\bin\Debug\05.OneTaskIsNotEnough.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-4-Feb\05.OneTaskIsNotEnough\bin\Debug\05.OneTaskIsNotEnough.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-4-Feb\05.OneTaskIsNotEnough\bin\Debug\05.OneTaskIsNotEnough.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-4-Feb\05.OneTaskIsNotEnough\obj\Debug\05.OneTaskIsNotEnough.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-4-Feb\05.OneTaskIsNotEnough\obj\Debug\05.OneTaskIsNotEnough.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2012-4-Feb\05.OneTaskIsNotEnough\obj\Debug\05.OneTaskIsNotEnough.pdb
