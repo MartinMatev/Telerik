@@ -1,0 +1,9 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\06.MaximalKsum\bin\Debug\06.MaximalKsum.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\06.MaximalKsum\bin\Debug\06.MaximalKsum.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\06.MaximalKsum\bin\Debug\06.MaximalKsum.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\06.MaximalKsum\obj\Debug\06.MaximalKsum.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\06.MaximalKsum\obj\Debug\06.MaximalKsum.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\06.MaximalKsum\obj\Debug\06.MaximalKsum.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\06.MaximalKsum\bin\Debug\06.MaximalKsum.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\06.MaximalKsum\obj\Debug\06.MaximalKsum.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\06.MaximalKsum\obj\Debug\06.MaximalKsum.pdb

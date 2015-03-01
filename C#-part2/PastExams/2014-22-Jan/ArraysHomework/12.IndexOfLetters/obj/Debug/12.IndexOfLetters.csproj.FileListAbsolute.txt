@@ -1,0 +1,9 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.pdb

@@ -1,0 +1,9 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\08.MaximalSum\bin\Debug\08.MaximalSum.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\08.MaximalSum\bin\Debug\08.MaximalSum.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\08.MaximalSum\bin\Debug\08.MaximalSum.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\08.MaximalSum\obj\Debug\08.MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\08.MaximalSum\obj\Debug\08.MaximalSum.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\08.MaximalSum\obj\Debug\08.MaximalSum.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\08.MaximalSum\bin\Debug\08.MaximalSum.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\08.MaximalSum\obj\Debug\08.MaximalSum.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\08.MaximalSum\obj\Debug\08.MaximalSum.pdb

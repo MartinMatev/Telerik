@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\18.PermutationsOfSet\bin\Debug\18.PermutationsOfSet.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\18.PermutationsOfSet\bin\Debug\18.PermutationsOfSet.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\18.PermutationsOfSet\bin\Debug\18.PermutationsOfSet.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\18.PermutationsOfSet\obj\Debug\18.PermutationsOfSet.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\18.PermutationsOfSet\obj\Debug\18.PermutationsOfSet.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\18.PermutationsOfSet\obj\Debug\19.PermutationsOfSet.csprojResolveAssemblyReference.cache

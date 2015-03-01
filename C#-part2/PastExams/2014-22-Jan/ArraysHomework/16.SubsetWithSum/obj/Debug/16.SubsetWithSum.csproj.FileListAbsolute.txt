@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\16.SubsetWithSum\bin\Debug\16.SubsetWithSum.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\16.SubsetWithSum\bin\Debug\16.SubsetWithSum.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\16.SubsetWithSum\bin\Debug\16.SubsetWithSum.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\16.SubsetWithSum\obj\Debug\16.SubsetWithSum.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\16.SubsetWithSum\obj\Debug\16.SubsetWithSum.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\16.SubsetWithSum\obj\Debug\16.SubsetWithSum.pdb

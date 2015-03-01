@@ -1,0 +1,12 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\21.CombinationsOfSet\bin\Debug\21.CombinationsOfSet.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\21.CombinationsOfSet\obj\Debug\21.CombinationsOfSet.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\21.CombinationsOfSet\bin\Debug\21.CombinationsOfSet.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\21.CombinationsOfSet\bin\Debug\21.CombinationsOfSet.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\21.CombinationsOfSet\obj\Debug\21.CombinationsOfSet.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\21.CombinationsOfSet\obj\Debug\21.CombinationsOfSet.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\21.CombinationsOfSet\bin\Debug\21.CombinationsOfSet.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\21.CombinationsOfSet\obj\Debug\21.CombinationsOfSet.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\21.CombinationsOfSet\obj\Debug\21.CombinationsOfSet.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\21.CombinationsOfSet\bin\Debug\21.CombinationsOfSet.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\21.CombinationsOfSet\bin\Debug\21.CombinationsOfSet.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\21.CombinationsOfSet\obj\Debug\21.CombinationsOfSet.csprojResolveAssemblyReference.cache

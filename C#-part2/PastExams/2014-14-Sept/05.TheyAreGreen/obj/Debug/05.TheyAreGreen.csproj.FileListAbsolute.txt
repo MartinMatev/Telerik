@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\2014-14-Sept\05.TheyAreGreen\bin\Debug\05.TheyAreGreen.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\2014-14-Sept\05.TheyAreGreen\bin\Debug\05.TheyAreGreen.exe
+c:\users\marto\documents\visual studio 2013\Projects\2014-14-Sept\05.TheyAreGreen\bin\Debug\05.TheyAreGreen.pdb
+c:\users\marto\documents\visual studio 2013\Projects\2014-14-Sept\05.TheyAreGreen\obj\Debug\05.TheyAreGreen.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\2014-14-Sept\05.TheyAreGreen\obj\Debug\05.TheyAreGreen.exe
+c:\users\marto\documents\visual studio 2013\Projects\2014-14-Sept\05.TheyAreGreen\obj\Debug\05.TheyAreGreen.pdb

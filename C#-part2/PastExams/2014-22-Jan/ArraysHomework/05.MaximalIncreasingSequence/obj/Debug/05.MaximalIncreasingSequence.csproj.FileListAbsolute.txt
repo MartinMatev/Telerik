@@ -1,0 +1,9 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ArraysHomework\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\ArraysHomework\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.pdb
