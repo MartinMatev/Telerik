@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\01.Zerg\bin\Debug\01.Zerg.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\01.Zerg\bin\Debug\01.Zerg.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\01.Zerg\bin\Debug\01.Zerg.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\01.Zerg\obj\Debug\01.Zerg.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\01.Zerg\obj\Debug\01.Zerg.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\01.Zerg\obj\Debug\01.Zerg.pdb

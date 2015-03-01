@@ -4,6 +4,3 @@ c:\users\marto\documents\visual studio 2013\Projects\2014-14-Sept\05.TheyAreGree
 c:\users\marto\documents\visual studio 2013\Projects\2014-14-Sept\05.TheyAreGreen\obj\Debug\05.TheyAreGreen.csprojResolveAssemblyReference.cache
 c:\users\marto\documents\visual studio 2013\Projects\2014-14-Sept\05.TheyAreGreen\obj\Debug\05.TheyAreGreen.exe
 c:\users\marto\documents\visual studio 2013\Projects\2014-14-Sept\05.TheyAreGreen\obj\Debug\05.TheyAreGreen.pdb
-C:\Users\Marto\Documents\GitHub\Telerik\C#-part2\PastExams\2014-14-Sept\05.TheyAreGreen\bin\Debug\05.TheyAreGreen.exe.config
-C:\Users\Marto\Documents\GitHub\Telerik\C#-part2\PastExams\2014-14-Sept\05.TheyAreGreen\obj\Debug\05.TheyAreGreen.exe
-C:\Users\Marto\Documents\GitHub\Telerik\C#-part2\PastExams\2014-14-Sept\05.TheyAreGreen\obj\Debug\05.TheyAreGreen.pdb
