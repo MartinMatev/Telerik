@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\04.EncodeAndEncrypt\bin\Debug\04.EncodeAndEncrypt.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\04.EncodeAndEncrypt\bin\Debug\04.EncodeAndEncrypt.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\04.EncodeAndEncrypt\bin\Debug\04.EncodeAndEncrypt.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\04.EncodeAndEncrypt\obj\Debug\04.EncodeAndEncrypt.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\04.EncodeAndEncrypt\obj\Debug\04.EncodeAndEncrypt.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\02.MovingLetters\bin\Debug\02.MovingLetters.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\02.MovingLetters\bin\Debug\02.MovingLetters.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\02.MovingLetters\bin\Debug\02.MovingLetters.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\02.MovingLetters\obj\Debug\02.MovingLetters.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\02.MovingLetters\obj\Debug\02.MovingLetters.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\02.MovingLetters\obj\Debug\02.MovingLetters.pdb

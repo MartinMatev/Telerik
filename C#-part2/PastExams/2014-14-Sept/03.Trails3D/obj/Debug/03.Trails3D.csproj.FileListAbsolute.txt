@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\03.Trails3D\bin\Debug\03.Trails3D.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\03.Trails3D\bin\Debug\03.Trails3D.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\03.Trails3D\bin\Debug\03.Trails3D.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\03.Trails3D\obj\Debug\03.Trails3D.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\03.Trails3D\obj\Debug\03.Trails3D.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-14-Sept\03.Trails3D\obj\Debug\03.Trails3D.pdb
