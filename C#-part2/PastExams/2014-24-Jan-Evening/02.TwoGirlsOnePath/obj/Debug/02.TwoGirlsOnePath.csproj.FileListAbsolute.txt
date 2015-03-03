@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-24-Jan-Evening\02.TwoGirlsOnePath\bin\Debug\02.TwoGirlsOnePath.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-24-Jan-Evening\02.TwoGirlsOnePath\bin\Debug\02.TwoGirlsOnePath.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-24-Jan-Evening\02.TwoGirlsOnePath\bin\Debug\02.TwoGirlsOnePath.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-24-Jan-Evening\02.TwoGirlsOnePath\obj\Debug\02.TwoGirlsOnePath.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-24-Jan-Evening\02.TwoGirlsOnePath\obj\Debug\02.TwoGirlsOnePath.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-24-Jan-Evening\02.TwoGirlsOnePath\obj\Debug\02.TwoGirlsOnePath.csprojResolveAssemblyReference.cache
