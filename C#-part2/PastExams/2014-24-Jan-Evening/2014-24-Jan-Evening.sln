@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TwoGirlsOnePath", "02.Tw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.RelevanceIndex", "04.RelevanceIndex\04.RelevanceIndex.csproj", "{8B7B0A1E-EEC5-4C8D-918C-86CD79473F65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Digits", "03.Digits\03.Digits.csproj", "{3683D0A0-E227-45B8-894F-CAC47A0296CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8B7B0A1E-EEC5-4C8D-918C-86CD79473F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B7B0A1E-EEC5-4C8D-918C-86CD79473F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B7B0A1E-EEC5-4C8D-918C-86CD79473F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3683D0A0-E227-45B8-894F-CAC47A0296CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3683D0A0-E227-45B8-894F-CAC47A0296CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3683D0A0-E227-45B8-894F-CAC47A0296CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3683D0A0-E227-45B8-894F-CAC47A0296CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

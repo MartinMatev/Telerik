@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-24-Jan-Evening\03.Digits\bin\Debug\03.Digits.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-24-Jan-Evening\03.Digits\bin\Debug\03.Digits.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-24-Jan-Evening\03.Digits\bin\Debug\03.Digits.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-24-Jan-Evening\03.Digits\obj\Debug\03.Digits.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-24-Jan-Evening\03.Digits\obj\Debug\03.Digits.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2014-24-Jan-Evening\03.Digits\obj\Debug\03.Digits.pdb
