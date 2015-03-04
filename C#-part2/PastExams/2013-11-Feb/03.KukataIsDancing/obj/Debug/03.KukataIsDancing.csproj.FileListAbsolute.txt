@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-11-Feb\03.KukataIsDancing\bin\Debug\03.KukataIsDancing.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-11-Feb\03.KukataIsDancing\bin\Debug\03.KukataIsDancing.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-11-Feb\03.KukataIsDancing\bin\Debug\03.KukataIsDancing.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-11-Feb\03.KukataIsDancing\obj\Debug\03.KukataIsDancing.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-11-Feb\03.KukataIsDancing\obj\Debug\03.KukataIsDancing.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-11-Feb\03.KukataIsDancing\obj\Debug\03.KukataIsDancing.pdb
