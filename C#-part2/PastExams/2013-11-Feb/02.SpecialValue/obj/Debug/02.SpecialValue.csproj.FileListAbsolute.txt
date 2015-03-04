@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-11-Feb\02.SpecialValue\bin\Debug\02.SpecialValue.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-11-Feb\02.SpecialValue\bin\Debug\02.SpecialValue.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-11-Feb\02.SpecialValue\bin\Debug\02.SpecialValue.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-11-Feb\02.SpecialValue\obj\Debug\02.SpecialValue.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2013-11-Feb\02.SpecialValue\obj\Debug\02.SpecialValue.pdb
