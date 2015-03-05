@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DurankulakNumbers", "01.DurankulakNumbers\01.DurankulakNumbers.csproj", "{D2BA0F15-C1E2-49D3-A845-058C4B2DE06E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.JoroTheRabbit", "02.JoroTheRabbit\02.JoroTheRabbit.csproj", "{72CBB0A4-6A7E-4E06-B82C-5BD199799CCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D2BA0F15-C1E2-49D3-A845-058C4B2DE06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2BA0F15-C1E2-49D3-A845-058C4B2DE06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2BA0F15-C1E2-49D3-A845-058C4B2DE06E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72CBB0A4-6A7E-4E06-B82C-5BD199799CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72CBB0A4-6A7E-4E06-B82C-5BD199799CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72CBB0A4-6A7E-4E06-B82C-5BD199799CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72CBB0A4-6A7E-4E06-B82C-5BD199799CCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

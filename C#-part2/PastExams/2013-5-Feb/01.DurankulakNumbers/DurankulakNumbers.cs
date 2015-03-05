@@ -14,19 +14,25 @@ class DurankulakNumbers
         string input = Console.ReadLine();
 
         long decimalRepresentation = 0;
-        int index = 0;
 
         for (int i = 0; i < input.Length; i++)
         {
+            int index = 0;
             if (char.IsUpper(input[i]))
             {
                 index = Array.IndexOf(alphabetArray, input[i].ToString());
+                // Ver.2 IF NO ALPHABET ARRAY:
+                //index = input[i] - 'A';
             }
             else
             {
                 string letter = string.Format("{0}{1}", input[i], input[i + 1]);
                 index = Array.IndexOf(alphabetArray, letter);
                 i++;
+                // Ver.2 IF NO ALPHABET ARRAY
+                //index += (input[i] - 'a' + 1) * 26;
+                //index += input[i + 1] - 'A';
+                //i++;
             }
 
             decimalRepresentation *= numbase;
