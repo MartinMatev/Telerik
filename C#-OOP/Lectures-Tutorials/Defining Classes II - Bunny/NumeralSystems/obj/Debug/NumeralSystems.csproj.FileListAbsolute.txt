@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\Defining classes - Bunny\NumeralSystems\bin\Debug\NumeralSystems.dll
+c:\users\marto\documents\visual studio 2013\Projects\Defining classes - Bunny\NumeralSystems\bin\Debug\NumeralSystems.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Defining classes - Bunny\NumeralSystems\obj\Debug\NumeralSystems.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Defining classes - Bunny\NumeralSystems\obj\Debug\NumeralSystems.dll
+c:\users\marto\documents\visual studio 2013\Projects\Defining classes - Bunny\NumeralSystems\obj\Debug\NumeralSystems.pdb

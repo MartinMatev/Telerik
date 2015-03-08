@@ -1,0 +1,8 @@
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections.Tests\bin\Debug\MegaCollections.Tests.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections.Tests\bin\Debug\MegaCollections.Tests.exe
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections.Tests\bin\Debug\MegaCollections.Tests.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections.Tests\bin\Debug\MegaCollections.dll
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections.Tests\bin\Debug\MegaCollections.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections.Tests\obj\Debug\MegaCollections.Tests.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections.Tests\obj\Debug\MegaCollections.Tests.exe
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections.Tests\obj\Debug\MegaCollections.Tests.pdb

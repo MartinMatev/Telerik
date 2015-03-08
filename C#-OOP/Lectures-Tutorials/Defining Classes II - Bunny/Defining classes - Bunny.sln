@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bunny", "Bunny\Bunny.csproj", "{814FD871-F576-4CF3-8DCD-50DF4F689DC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeralSystems", "NumeralSystems\NumeralSystems.csproj", "{22E50510-864D-482F-87BA-F84CC0D359C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{814FD871-F576-4CF3-8DCD-50DF4F689DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814FD871-F576-4CF3-8DCD-50DF4F689DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814FD871-F576-4CF3-8DCD-50DF4F689DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814FD871-F576-4CF3-8DCD-50DF4F689DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E50510-864D-482F-87BA-F84CC0D359C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E50510-864D-482F-87BA-F84CC0D359C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E50510-864D-482F-87BA-F84CC0D359C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E50510-864D-482F-87BA-F84CC0D359C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

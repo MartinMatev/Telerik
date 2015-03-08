@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections\bin\Debug\MegaCollections.dll
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections\bin\Debug\MegaCollections.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections\obj\Debug\MegaCollections.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections\obj\Debug\MegaCollections.dll
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections\obj\Debug\MegaCollections.pdb
