@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\BunnyWars\BunnyWars\bin\Debug\BunnyWars.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\BunnyWars\BunnyWars\bin\Debug\BunnyWars.exe
+c:\users\marto\documents\visual studio 2013\Projects\BunnyWars\BunnyWars\bin\Debug\BunnyWars.pdb
+c:\users\marto\documents\visual studio 2013\Projects\BunnyWars\BunnyWars\obj\Debug\BunnyWars.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\BunnyWars\BunnyWars\obj\Debug\BunnyWars.exe
+c:\users\marto\documents\visual studio 2013\Projects\BunnyWars\BunnyWars\obj\Debug\BunnyWars.pdb
