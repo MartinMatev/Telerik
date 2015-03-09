@@ -6,3 +6,11 @@ c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardD
 c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections.Tests\obj\Debug\MegaCollections.Tests.csprojResolveAssemblyReference.cache
 c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections.Tests\obj\Debug\MegaCollections.Tests.exe
 c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections.Tests\obj\Debug\MegaCollections.Tests.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Defining Classes II - Deque\MegaCollections.Tests\bin\Debug\MegaCollections.Tests.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Defining Classes II - Deque\MegaCollections.Tests\obj\Debug\MegaCollections.Tests.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Defining Classes II - Deque\MegaCollections.Tests\obj\Debug\MegaCollections.Tests.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Defining Classes II - Deque\MegaCollections.Tests\bin\Debug\MegaCollections.Tests.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Defining Classes II - Deque\MegaCollections.Tests\bin\Debug\MegaCollections.Tests.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Defining Classes II - Deque\MegaCollections.Tests\bin\Debug\MegaCollections.dll
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Defining Classes II - Deque\MegaCollections.Tests\bin\Debug\MegaCollections.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Defining Classes II - Deque\MegaCollections.Tests\obj\Debug\MegaCollections.Tests.csprojResolveAssemblyReference.cache

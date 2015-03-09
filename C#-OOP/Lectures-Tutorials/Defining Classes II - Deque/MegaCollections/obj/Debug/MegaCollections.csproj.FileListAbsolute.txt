@@ -3,3 +3,8 @@ c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardD
 c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections\obj\Debug\MegaCollections.csprojResolveAssemblyReference.cache
 c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections\obj\Debug\MegaCollections.dll
 c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - CardDeck\MegaCollections\obj\Debug\MegaCollections.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Defining Classes II - Deque\MegaCollections\bin\Debug\MegaCollections.dll
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Defining Classes II - Deque\MegaCollections\bin\Debug\MegaCollections.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Defining Classes II - Deque\MegaCollections\obj\Debug\MegaCollections.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Defining Classes II - Deque\MegaCollections\obj\Debug\MegaCollections.dll
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Defining Classes II - Deque\MegaCollections\obj\Debug\MegaCollections.pdb

@@ -56,6 +56,18 @@
             }
 
             Console.WriteLine(deque.Count);
+
+            deque[0] = 1337;
+            Console.WriteLine(deque[0]);
+
+            Deque<int> anotherDeque = new Deque<int>();
+            anotherDeque.AddFront(12);
+            anotherDeque.AddFront(56);
+            anotherDeque.AddFront(2);
+            anotherDeque.AddBack(35);
+            anotherDeque.AddBack(99);
+
+            Deque<int> result = deque + anotherDeque;
         }
     }
 }

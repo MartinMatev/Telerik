@@ -110,6 +110,48 @@
             return this.data[backIndex - 1];
         }
 
+        // Creating an indexer
+        public T this[int index]
+        {
+            get
+            {
+                if (index < 0 || index >= this.Count)
+                {
+                    throw new IndexOutOfRangeException("Index is out of range");
+                }
+
+                return this.data[this.frontIndex + index + 1];
+            }
+            set
+            {
+                if (index < 0 || index >= this.Count)
+                {
+                    throw new IndexOutOfRangeException("Index is out of range");
+                }
+
+                this.data[this.frontIndex + index + 1] = value;
+            }
+        }
+
+        // Overriding the + operator
+        public static Deque<T> operator +(Deque<T> first, Deque<T> second)
+        {
+            Deque<T> result = new Deque<T>();
+
+            for (int i = 0; i < first.Count; i++)
+            {
+                result.AddBack(first[i]);
+            }
+
+            for (int i = 0; i < second.Count; i++)
+            {
+                result.AddFront(second[i]);
+            }
+
+            return result;
+        }
+
+        // Creating the resizing algorithm
         private void ResizeData()
         {
             int newSize = this.Capacity * 2;

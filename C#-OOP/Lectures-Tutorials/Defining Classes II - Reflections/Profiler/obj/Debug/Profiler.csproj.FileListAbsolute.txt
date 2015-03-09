@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - Reflections\Profiler\bin\Debug\Profiler.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - Reflections\Profiler\bin\Debug\Profiler.exe
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - Reflections\Profiler\bin\Debug\Profiler.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - Reflections\Profiler\obj\Debug\Profiler.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - Reflections\Profiler\obj\Debug\Profiler.exe
+c:\users\marto\documents\visual studio 2013\Projects\Defining Classes II - Reflections\Profiler\obj\Debug\Profiler.pdb
