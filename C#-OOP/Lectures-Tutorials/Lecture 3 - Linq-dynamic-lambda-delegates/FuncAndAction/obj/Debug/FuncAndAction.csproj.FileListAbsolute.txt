@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\FuncAndAction\bin\Debug\FuncAndAction.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\FuncAndAction\bin\Debug\FuncAndAction.exe
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\FuncAndAction\bin\Debug\FuncAndAction.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\FuncAndAction\obj\Debug\FuncAndAction.exe
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\FuncAndAction\obj\Debug\FuncAndAction.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\FuncAndAction\obj\Debug\FuncAndAction.csprojResolveAssemblyReference.cache

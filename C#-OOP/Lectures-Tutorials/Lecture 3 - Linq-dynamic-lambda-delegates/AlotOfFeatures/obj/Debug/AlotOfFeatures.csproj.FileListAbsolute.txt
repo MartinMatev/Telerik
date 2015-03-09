@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\AlotOfFeatures\bin\Debug\AlotOfFeatures.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\AlotOfFeatures\bin\Debug\AlotOfFeatures.exe
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\AlotOfFeatures\bin\Debug\AlotOfFeatures.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\AlotOfFeatures\obj\Debug\AlotOfFeatures.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\AlotOfFeatures\obj\Debug\AlotOfFeatures.exe
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\AlotOfFeatures\obj\Debug\AlotOfFeatures.pdb

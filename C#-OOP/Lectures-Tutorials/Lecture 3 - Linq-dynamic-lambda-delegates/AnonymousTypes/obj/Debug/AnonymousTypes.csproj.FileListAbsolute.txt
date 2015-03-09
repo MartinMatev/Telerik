@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\AnonymousTypes\obj\Debug\AnonymousTypes.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Lecture 3 - Linq-dynamic-lambda-delegates\AnonymousTypes\obj\Debug\AnonymousTypes.csprojResolveAssemblyReference.cache
