@@ -1,0 +1,6 @@
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Defining-Classes-Part2-Homework\Version\bin\Debug\Version.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Defining-Classes-Part2-Homework\Version\bin\Debug\Version.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Defining-Classes-Part2-Homework\Version\bin\Debug\Version.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Defining-Classes-Part2-Homework\Version\obj\Debug\Version.csprojResolveAssemblyReference.cache
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Defining-Classes-Part2-Homework\Version\obj\Debug\Version.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Defining-Classes-Part2-Homework\Version\obj\Debug\Version.pdb

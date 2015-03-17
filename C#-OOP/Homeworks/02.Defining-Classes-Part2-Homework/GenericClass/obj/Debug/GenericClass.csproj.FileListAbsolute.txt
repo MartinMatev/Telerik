@@ -1,0 +1,6 @@
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Defining-Classes-Part2-Homework\GenericClass\bin\Debug\GenericClass.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Defining-Classes-Part2-Homework\GenericClass\bin\Debug\GenericClass.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Defining-Classes-Part2-Homework\GenericClass\bin\Debug\GenericClass.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Defining-Classes-Part2-Homework\GenericClass\obj\Debug\GenericClass.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Defining-Classes-Part2-Homework\GenericClass\obj\Debug\GenericClass.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Defining-Classes-Part2-Homework\GenericClass\obj\Debug\GenericClass.csprojResolveAssemblyReference.cache
