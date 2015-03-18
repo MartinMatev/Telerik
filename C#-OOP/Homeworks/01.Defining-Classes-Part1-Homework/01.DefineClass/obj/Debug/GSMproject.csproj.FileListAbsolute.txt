@@ -10,3 +10,9 @@ C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Defining-Classes-Par
 C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Defining-Classes-Part1-Homework\01.DefineClass\bin\Debug\01.DefineClass.exe
 C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Defining-Classes-Part1-Homework\01.DefineClass\bin\Debug\01.DefineClass.pdb
 C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Defining-Classes-Part1-Homework\01.DefineClass\obj\Debug\GSMproject.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Downloads\HW_Martin.Matev_Definirane-na-klasove---chast-1_2015-03-12_15-52\Defining-Classes-Part1-Homework\01.DefineClass\bin\Debug\01.DefineClass.exe.config
+C:\Users\Marto\Downloads\HW_Martin.Matev_Definirane-na-klasove---chast-1_2015-03-12_15-52\Defining-Classes-Part1-Homework\01.DefineClass\obj\Debug\01.DefineClass.exe
+C:\Users\Marto\Downloads\HW_Martin.Matev_Definirane-na-klasove---chast-1_2015-03-12_15-52\Defining-Classes-Part1-Homework\01.DefineClass\obj\Debug\01.DefineClass.pdb
+C:\Users\Marto\Downloads\HW_Martin.Matev_Definirane-na-klasove---chast-1_2015-03-12_15-52\Defining-Classes-Part1-Homework\01.DefineClass\bin\Debug\01.DefineClass.exe
+C:\Users\Marto\Downloads\HW_Martin.Matev_Definirane-na-klasove---chast-1_2015-03-12_15-52\Defining-Classes-Part1-Homework\01.DefineClass\bin\Debug\01.DefineClass.pdb
+C:\Users\Marto\Downloads\HW_Martin.Matev_Definirane-na-klasove---chast-1_2015-03-12_15-52\Defining-Classes-Part1-Homework\01.DefineClass\obj\Debug\GSMproject.csprojResolveAssemblyReference.cache

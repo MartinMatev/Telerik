@@ -36,7 +36,7 @@
             {
                 if (value < 1 || value > 5)
                 {
-                    throw new ArgumentOutOfRangeException("I like it medium rare, thanks");
+                    throw new ArgumentOutOfRangeException("Size must be between 1 and 5. Because reasons.");
                 }
                 this.size = value;
             }
@@ -50,9 +50,9 @@
             }
             set
             {
-                if (value > 9000)
+                if (value > 9001)
                 {
-                    throw new ArgumentOutOfRangeException("IT'S OVER 9000");
+                    throw new ArgumentOutOfRangeException("IT'S OVER 9000. And it has to be less than that, so deal with it.");
                 }
                 this.numberOfColors = value;
             }

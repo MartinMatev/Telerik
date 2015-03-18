@@ -65,7 +65,7 @@
             {
                 if (value < 0)
                 {
-                    throw new ArgumentOutOfRangeException("Are you a magician?");
+                    throw new ArgumentOutOfRangeException("Hours Idle cannot be a negative number...Unless you are a magician. Than everything is possible!");
                 }
                 this.hoursIdle = value;
             }
@@ -81,7 +81,7 @@
             {
                 if (value < 0)
                 {
-                    throw new ArgumentOutOfRangeException("No, seriously, that's impossible...");
+                    throw new ArgumentOutOfRangeException("You tried to enter a negative number for the duration of your calls.No, seriously, that's impossible...");
                 }
                 this.hoursTalk = value;
             }

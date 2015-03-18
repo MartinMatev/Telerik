@@ -9,7 +9,7 @@
     public class GSM
     {
         // static field
-        private static GSM iphone4s;
+        private static GSM iphone4s = new GSM("iPhun4s", "Some fruit", 0.3371m, "Someone", new Display(2, 1337), new Battery("I have no idea whatsoever", 13m, 37m, BatteryTypes.NiCd));
 
         // constants
         private const decimal PRICE_PER_MINUTE = 0.37m;
@@ -22,12 +22,19 @@
         private Display display;
         private Battery battery;
 
+        // Constructors
 
-        // Constructor with every possible field
-        public GSM(string newModel, string newManufacturer, decimal price, string owner, Display display, Battery battery)
+        // Constructor with the mandatory fields 
+        public GSM(string newModel, string newManufacturer)
+            : base()
         {
             this.Model = newModel;
             this.Manufacturer = newManufacturer;
+        }
+
+        // Constructor with every possible field
+        public GSM(string newModel, string newManufacturer, decimal price, string owner, Display display, Battery battery) : this(newModel, newManufacturer)
+        {
             this.Price = price;
             this.Owner = owner;
             this.Display = display;
@@ -35,22 +42,10 @@
             this.CallHistory = new List<Call>();
         }
 
-        // Constructor with the mandatory fields + sets the default values to everything else; invokes the other constructor, so I dont have to type and hurt my fingers
         public GSM(string newModel, string newManufacturer, decimal price)
-            : this(newModel, newManufacturer, price, "Strahil", new Display(), new Battery())
+            : this(newModel, newManufacturer)
         {
-
-        }
-        // Empty constructor, used for the ToString override in problem 4
-        public GSM()
-        {
-
-        }
-
-        // Iphone values
-        static GSM()
-        {
-            Iphone4s = new GSM("iPhun4s", "Some fruit", 0.3371m, "Someone", new Display(2, 1337), new Battery("I have no idea whatsoever", 13m, 37m, BatteryTypes.NiCd));
+            this.Price = price;
         }
 
         //Properties
@@ -61,10 +56,6 @@
             get
             {
                 return iphone4s;
-            }
-            set
-            {
-                iphone4s = value;
             }
         }
 
@@ -113,7 +104,7 @@
             {
                 if (value < 0)
                 {
-                    throw new ArgumentOutOfRangeException("Yeah....no");
+                    throw new ArgumentOutOfRangeException("Price cannot be a negative number... Who would have thought, right ?");
                 }
 
                 this.price = value;
