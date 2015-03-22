@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\05.TimerApp\bin\Debug\05.TimerApp.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\05.TimerApp\bin\Debug\05.TimerApp.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\05.TimerApp\bin\Debug\05.TimerApp.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\05.TimerApp\obj\Debug\05.TimerApp.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\05.TimerApp\obj\Debug\05.TimerApp.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\05.TimerApp\obj\Debug\05.TimerApp.pdb

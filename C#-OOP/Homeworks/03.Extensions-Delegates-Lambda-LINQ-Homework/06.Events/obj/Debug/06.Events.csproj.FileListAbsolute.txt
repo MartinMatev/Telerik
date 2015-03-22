@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\06.Events\bin\Debug\06.Events.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\06.Events\bin\Debug\06.Events.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\06.Events\bin\Debug\06.Events.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\06.Events\obj\Debug\06.Events.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\06.Events\obj\Debug\06.Events.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\06.Events\obj\Debug\06.Events.pdb

@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\07.LongestString\bin\Debug\07.LongestString.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\07.LongestString\bin\Debug\07.LongestString.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\07.LongestString\bin\Debug\07.LongestString.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\07.LongestString\obj\Debug\07.LongestString.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\07.LongestString\obj\Debug\07.LongestString.pdb

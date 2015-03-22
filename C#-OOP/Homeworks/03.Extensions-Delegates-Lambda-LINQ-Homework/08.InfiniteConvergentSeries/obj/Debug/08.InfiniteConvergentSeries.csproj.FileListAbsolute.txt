@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\08.InfiniteConvergentSeries\bin\Debug\08.InfiniteConvergentSeries.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\08.InfiniteConvergentSeries\bin\Debug\08.InfiniteConvergentSeries.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\08.InfiniteConvergentSeries\bin\Debug\08.InfiniteConvergentSeries.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\08.InfiniteConvergentSeries\obj\Debug\08.InfiniteConvergentSeries.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\08.InfiniteConvergentSeries\obj\Debug\08.InfiniteConvergentSeries.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\08.InfiniteConvergentSeries\obj\Debug\08.InfiniteConvergentSeries.pdb

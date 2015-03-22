@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\02.ExtendingIEnumerable\bin\Debug\02.ExtendingIEnumerable.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\02.ExtendingIEnumerable\obj\Debug\02.ExtendingIEnumerable.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\02.ExtendingIEnumerable\bin\Debug\02.ExtendingIEnumerable.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\02.ExtendingIEnumerable\bin\Debug\02.ExtendingIEnumerable.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\02.ExtendingIEnumerable\obj\Debug\02.ExtendingIEnumerable.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\02.ExtendingIEnumerable\obj\Debug\02.ExtendingIEnumerable.pdb

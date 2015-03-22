@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\01.ExtendingSubstring\bin\Debug\01.ExtendingSubstring.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\01.ExtendingSubstring\obj\Debug\01.ExtendingSubstring.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\01.ExtendingSubstring\bin\Debug\01.ExtendingSubstring.exe
+c:\users\marto\documents\visual studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\01.ExtendingSubstring\bin\Debug\01.ExtendingSubstring.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\01.ExtendingSubstring\obj\Debug\01.ExtendingSubstring.exe
+c:\users\marto\documents\visual studio 2013\Projects\Extensions-Delegates-Lambda-LINQ-Homework\01.ExtendingSubstring\obj\Debug\01.ExtendingSubstring.pdb
