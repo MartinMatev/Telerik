@@ -1,0 +1,6 @@
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.csprojResolveAssemblyReference.cache
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.pdb

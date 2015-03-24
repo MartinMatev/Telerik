@@ -1,0 +1,6 @@
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\AnimalHierarchy\obj\Debug\AnimalHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\AnimalHierarchy\bin\Debug\AnimalHierarchy.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\AnimalHierarchy\obj\Debug\AnimalHierarchy.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\AnimalHierarchy\obj\Debug\AnimalHierarchy.pdb

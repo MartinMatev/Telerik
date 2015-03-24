@@ -1,0 +1,7 @@
+c:\users\marto\documents\visual studio 2013\Projects\OOP-Principles-Part1-Homework\SchoolClasses\bin\Debug\SchoolClasses.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\SchoolClasses\bin\Debug\SchoolClasses.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\SchoolClasses\obj\Debug\SchoolClasses.csprojResolveAssemblyReference.cache
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\SchoolClasses\bin\Debug\SchoolClasses.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\SchoolClasses\bin\Debug\SchoolClasses.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\SchoolClasses\obj\Debug\SchoolClasses.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-Principles-Part1-Homework\SchoolClasses\obj\Debug\SchoolClasses.pdb
