@@ -55,18 +55,24 @@ namespace AnimalHierarchy
             Console.WriteLine("Animal sounds below: \n");
             foreach (var animalArray in animals)
             {
+                Console.WriteLine("> {0}", GetTypeName(animalArray));
                 foreach (var animal in animalArray)
                 {
+                    Console.Write("   -");
                     animal.ProduceSound();
                 }
             }
 
             Console.WriteLine("\nAverage age of animals:\n");
-            Console.WriteLine("Dogs: {0:F2} years", Animal.AverageAge(dogsArray));
-            Console.WriteLine("Frogs: {0:F2} years", Animal.AverageAge(frogsArray));
-            Console.WriteLine("Cats: {0:F2} years", Animal.AverageAge(cats));
-            Console.WriteLine("Kittens: {0:F2} years", Animal.AverageAge(pussyArray));
-            Console.WriteLine("Tomcats: {0:F2} years", Animal.AverageAge(tomcatsArray));
+            foreach (var animalArray in animals)
+            {
+                Console.WriteLine("{0}: {1:F2} years", GetTypeName(animalArray), Animal.AverageAge(animalArray));
+            }
+        }
+
+        private static string GetTypeName(Animal[] animalArray)
+        {
+            return animalArray.GetType().Name.Trim(new char[] { '[', ']' });
         }
     }
 }
