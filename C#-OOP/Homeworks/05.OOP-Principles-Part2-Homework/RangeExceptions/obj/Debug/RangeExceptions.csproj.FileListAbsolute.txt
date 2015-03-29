@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Homeworks\OOP-Principles-Part2-Homework\RangeExceptions\bin\Debug\RangeExceptions.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Homeworks\OOP-Principles-Part2-Homework\RangeExceptions\bin\Debug\RangeExceptions.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Homeworks\OOP-Principles-Part2-Homework\RangeExceptions\bin\Debug\RangeExceptions.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Homeworks\OOP-Principles-Part2-Homework\RangeExceptions\obj\Debug\RangeExceptions.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Homeworks\OOP-Principles-Part2-Homework\RangeExceptions\obj\Debug\RangeExceptions.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\Homeworks\OOP-Principles-Part2-Homework\RangeExceptions\obj\Debug\RangeExceptions.pdb
