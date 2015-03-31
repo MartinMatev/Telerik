@@ -1,0 +1,6 @@
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\PersonClass\bin\Debug\PersonClass.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\PersonClass\bin\Debug\PersonClass.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\PersonClass\bin\Debug\PersonClass.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\PersonClass\obj\Debug\PersonClass.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\PersonClass\obj\Debug\PersonClass.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\PersonClass\obj\Debug\PersonClass.csprojResolveAssemblyReference.cache

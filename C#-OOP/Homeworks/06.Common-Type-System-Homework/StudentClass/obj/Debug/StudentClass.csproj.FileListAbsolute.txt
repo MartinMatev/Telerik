@@ -1,0 +1,7 @@
+c:\users\marto\documents\visual studio 2013\Projects\Common-Type-System-Homework\StudentClass\bin\Debug\StudentClass.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\StudentClass\bin\Debug\StudentClass.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\StudentClass\bin\Debug\StudentClass.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\StudentClass\bin\Debug\StudentClass.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\StudentClass\obj\Debug\StudentClass.csprojResolveAssemblyReference.cache
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\StudentClass\obj\Debug\StudentClass.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\StudentClass\obj\Debug\StudentClass.pdb

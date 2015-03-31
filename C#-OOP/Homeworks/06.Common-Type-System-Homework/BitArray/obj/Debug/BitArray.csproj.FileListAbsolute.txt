@@ -1,0 +1,6 @@
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\BitArray\bin\Debug\BitArray.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\BitArray\obj\Debug\BitArray.csprojResolveAssemblyReference.cache
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\BitArray\bin\Debug\BitArray.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\BitArray\bin\Debug\BitArray.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\BitArray\obj\Debug\BitArray.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\Common-Type-System-Homework\BitArray\obj\Debug\BitArray.pdb
