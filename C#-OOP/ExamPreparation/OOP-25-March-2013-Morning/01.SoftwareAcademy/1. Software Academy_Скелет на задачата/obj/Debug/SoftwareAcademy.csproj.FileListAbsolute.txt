@@ -1,0 +1,7 @@
+C:\Users\Marto\Downloads\OOP-25-March-2013-Morning\1. Software Academy_Скелет на задачата\bin\Debug\SoftwareAcademy.exe
+C:\Users\Marto\Downloads\OOP-25-March-2013-Morning\1. Software Academy_Скелет на задачата\bin\Debug\SoftwareAcademy.pdb
+C:\Users\Marto\Downloads\OOP-25-March-2013-Morning\1. Software Academy_Скелет на задачата\obj\Debug\SoftwareAcademy.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Downloads\OOP-25-March-2013-Morning\1. Software Academy_Скелет на задачата\obj\Debug\SoftwareAcademy.exe
+C:\Users\Marto\Downloads\OOP-25-March-2013-Morning\1. Software Academy_Скелет на задачата\obj\Debug\SoftwareAcademy.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP Exam Preparation\OOP-25-March-2013-Morning\01.SoftwareAcademy\1. Software Academy_Скелет на задачата\obj\Debug\SoftwareAcademy.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP Exam Preparation\OOP-25-March-2013-Morning\01.SoftwareAcademy\1. Software Academy_Скелет на задачата\obj\Debug\SoftwareAcademy.pdb

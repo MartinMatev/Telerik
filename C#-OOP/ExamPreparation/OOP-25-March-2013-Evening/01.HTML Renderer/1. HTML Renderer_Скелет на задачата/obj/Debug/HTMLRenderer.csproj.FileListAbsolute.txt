@@ -1,0 +1,7 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\OOP Exam Preparation\OOP-25-March-2013-Evening\01.HTML Renderer\1. HTML Renderer_Скелет на задачата\obj\Debug\HTMLRenderer.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\OOP Exam Preparation\OOP-25-March-2013-Evening\01.HTML Renderer\1. HTML Renderer_Скелет на задачата\bin\Debug\HTMLRenderer.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\OOP Exam Preparation\OOP-25-March-2013-Evening\01.HTML Renderer\1. HTML Renderer_Скелет на задачата\bin\Debug\HTMLRenderer.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\OOP Exam Preparation\OOP-25-March-2013-Evening\01.HTML Renderer\1. HTML Renderer_Скелет на задачата\obj\Debug\HTMLRenderer.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\C# OOP\OOP Exam Preparation\OOP-25-March-2013-Evening\01.HTML Renderer\1. HTML Renderer_Скелет на задачата\obj\Debug\HTMLRenderer.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP Exam Preparation\OOP-25-March-2013-Evening\01.HTML Renderer\1. HTML Renderer_Скелет на задачата\obj\Debug\HTMLRenderer.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP Exam Preparation\OOP-25-March-2013-Evening\01.HTML Renderer\1. HTML Renderer_Скелет на задачата\obj\Debug\HTMLRenderer.pdb

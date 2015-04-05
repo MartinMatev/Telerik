@@ -1,0 +1,12 @@
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.exe
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.pdb
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.exe
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.pdb
+C:\Users\Marto\Downloads\AcademyRpg\2. AcademyRPG_Скелет на задачата\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.exe
+C:\Users\Marto\Downloads\AcademyRpg\2. AcademyRPG_Скелет на задачата\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.pdb
+C:\Users\Marto\Downloads\AcademyRpg\2. AcademyRPG_Скелет на задачата\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.exe
+C:\Users\Marto\Downloads\AcademyRpg\2. AcademyRPG_Скелет на задачата\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.pdb
+C:\Users\Marto\Downloads\AcademyRpg\2. AcademyRPG_Скелет на задачата\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.csprojResolveAssemblyReference.cache
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP Exam Preparation\OOP-25-March-2013-Morning\02.AcademyRpg\2. AcademyRPG_Скелет на задачата\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP Exam Preparation\OOP-25-March-2013-Morning\02.AcademyRpg\2. AcademyRPG_Скелет на задачата\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.pdb
