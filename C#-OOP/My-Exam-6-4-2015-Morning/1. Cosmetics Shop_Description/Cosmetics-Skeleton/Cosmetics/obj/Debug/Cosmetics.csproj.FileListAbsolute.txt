@@ -1,0 +1,6 @@
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.csprojResolveAssemblyReference.cache
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.pdb
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.exe
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.pdb

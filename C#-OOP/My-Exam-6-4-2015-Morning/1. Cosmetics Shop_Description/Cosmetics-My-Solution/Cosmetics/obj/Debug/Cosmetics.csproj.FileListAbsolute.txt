@@ -1,0 +1,2 @@
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\Cosmetics-Skeleton\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe.config
+C:\Users\Matev\Documents\Visual Studio 2013\Projects\C# OOP\OOP-My-Exam\1. Cosmetics Shop_Description\Cosmetics-My-Solution\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe.config
