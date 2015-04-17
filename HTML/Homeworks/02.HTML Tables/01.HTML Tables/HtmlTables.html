@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <title>HTML Tables</title>
+    <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+	<table id="firstTable">
+		<thead>
+			<th colspan="2"><em>Fresh Fruits</em></th>
+		</thead>
+		<tbody>
+			<tr>
+				<td>It has long been known that a diet that includes at least a few servings of fresh fruit every day will help keep you healthy, fit and trim.</td>
+				<td><img src="images/fruits.png"></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table border="2" cellpadding="5px" id="secondTable">
+		<col width="19%" />
+		<tr>
+			<td colspan="3">Title goes here</td>
+			<td>A</td>
+			<td id="rightAlignedCell">B</td>
+		</tr>
+		<tr>
+			<td rowspan="3" align="left">C</td>
+			<td>D</td>
+			<td>E</td>
+			<td>F</td>
+			<td id="rightAlignedCell">G</td>
+		</tr>
+		<tr>
+			<td>H</td>
+			<td colspan="2">I</td>
+			<td rowspan="2" id="lastCellSpanned">J</td>
+		</tr>
+		<tr>
+			<td>K</td>
+			<td>L</td>
+			<td>M</td>
+		</tr>
+		<tr>
+			<td id="rightAlignedCell">N</td>
+			<td colspan="4">O</td>
+		</tr>
+	</table>
+</body>
+</html>

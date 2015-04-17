@@ -1,0 +1,27 @@
+#firstTable{
+	width: 445px;
+	height: 100px;
+	margin-bottom: 30px;
+}
+
+#firstTable th{
+	text-align: center;
+	font-size: 26px;
+}
+
+#secondTable td{
+	width: 28px;
+}
+
+#secondTable tr{
+	text-align: center;
+}
+
+#rightAlignedCell{
+	text-align: right;
+}
+
+#lastCellSpanned{
+	text-align: right;
+	vertical-align: bottom;
+}

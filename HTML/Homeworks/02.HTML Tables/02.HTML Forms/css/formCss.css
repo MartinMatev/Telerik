@@ -1,0 +1,9 @@
+button {
+    background-image: url("../images/submitGIF.gif");
+    width: 42px;
+    height: 24px;
+    cursor: pointer;
+    overflow: hidden;
+    border: none;
+    background-repeat: no-repeat;
+}
