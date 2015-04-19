@@ -1,0 +1,57 @@
+body{
+	width: 450px;
+}
+
+header{
+	clear: both;
+	height: 80px;
+	padding-left: 40px;
+}
+
+#welcomeHeading{
+	float: right;
+	font-weight: 500;
+	padding-top: 10px;
+}
+
+#logo{
+	float: left;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#menu{
+	margin-top: 20px;
+}
+
+ul{
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 20px;
+}
+
+li{
+	margin: 10px;
+}
+
+a{
+	text-decoration: none;
+	color: #000;
+	font-weight: 600;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+table{
+	position: relative;
+	text-align: center;
+	font-size: 20px;
+	margin-left: 30px;
+	border-collapse: collapse;
+}
+
+th, td{
+	border: 2px solid black;
+	padding: 5px 10px;
+}
