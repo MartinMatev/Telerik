@@ -1,0 +1,26 @@
+table{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+td{
+	border: 1px solid #777777;
+	
+}
+
+td:nth-child(odd){
+	font-weight: bold;
+	text-align: center;
+}
+
+tfoot{
+	background-color: #69CAFB;
+}
+
+#countrySelect{
+	width: 125px;
+}
+
+#genderSelect{
+	width: 70px;
+}

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Registration Form</title>
+	<link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+	<form>
+		<table>
+		<col width="50px"/>
+		<col width="230px"/>
+			<tfoot>
+				<tr>
+					<td id="tableFooter" colspan="2">
+						<input type="submit">
+						<button>Clean this form</button>
+					</td>
+				</tr>
+			</tfoot>
+			<tbody>
+				<tr>
+					<td><label>Last Name</label></td>
+					<td><input type="text" size="25"></td>
+				</tr>
+				<tr>
+					<td><label>First Name</label></td>
+					<td><input type="text" size="25"></td>
+				</tr>
+				<tr>
+					<td><label>Address</label></td>
+					<td><textarea rows="4" cols="25"></textarea></td>
+				</tr>
+				<tr>
+					<td><label>City</label></td>
+					<td>
+						<input type="text" size="14">
+						<label>State</label>
+						<input type="text" size="3">
+					</td>
+				</tr>
+				<tr>
+					<td><label>Zip/Postal Code</label></td>
+					<td><input type="text" size="6"></td>
+				</tr>
+				<tr>
+					<td><label>Country</label></td>
+					<td>
+						<select id="countrySelect">
+							<option value="Bulgaria">Bulgaria</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td><label>Phone(country code, area code, number)</label></td>
+					<td>
+						(+<input type="tel" size="3">)
+						<input type="tel" size="3">
+						<input type="tel" size="8">
+					</td>
+				</tr>
+				<tr>
+					<td><label>E-mail</label></td>
+					<td><input type="email" size="25"></td>
+				</tr>
+				<tr>
+					<td><label>Birth date</label></td>
+					<td><input type="date"></td>
+				</tr>
+				<tr>
+					<td><label>Gender</label></td>
+					<td>
+						<select id="genderSelect">
+							<option>Male</option>
+							<option>Female</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td><label>Starting date</label></td>
+					<td>
+						<input type="radio"> <label>Spring 2015</label>
+						<input type="radio"> <label>Summer 2015</label>
+					</td>
+				</tr>
+				<tr>
+					<td><label>Comments/Questions</label></td>
+					<td><textarea rows="6" cols="25"></textarea></td>
+				</tr>
+			</tbody>		
+		</table>
+	</form>
+</body>
+</html>

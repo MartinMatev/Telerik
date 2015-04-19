@@ -1,0 +1,33 @@
+body{
+	font-family: candara;
+}
+
+a{
+	font-size: 22px;
+	color: #69CAFB;
+}
+
+table, thead{
+	border: 2px solid #777;
+	border-collapse: collapse;
+}
+
+#infoTable{
+	border: none;
+	font-weight: 500;
+}
+
+#sidebarTable{
+	border: none;
+	line-height: 45px;
+	font-weight: 600;
+}
+
+td #uniqueSnowflake{
+	padding-right: 20px;
+	text-align: right;
+}
+
+legend{
+	text-align: center;
+}
