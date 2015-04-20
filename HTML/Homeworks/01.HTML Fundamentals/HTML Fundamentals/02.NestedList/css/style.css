@@ -1,0 +1,10 @@
+ol{
+	line-height:22px;
+}
+
+li{
+	padding-left: 10px;
+}
+ol:first-child{
+	padding-left: 20px;
+}
