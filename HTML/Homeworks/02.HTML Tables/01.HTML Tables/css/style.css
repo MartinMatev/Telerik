@@ -17,8 +17,11 @@
 	text-align: center;
 }
 
-#rightAlignedCell{
+.rightAlignedCell{
 	text-align: right;
+}
+.leftAlignCell{
+	text-align: left;
 }
 
 #lastCellSpanned{
