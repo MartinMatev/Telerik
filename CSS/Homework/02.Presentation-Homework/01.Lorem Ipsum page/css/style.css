@@ -1,0 +1,22 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+section{
+	padding: 20px;
+}
+
+section p{
+	font-family: 'Consolas';
+	color: #0094FF;
+}
+
+section p::first-line{
+	font-weight: 600;
+}
+
+section p::first-letter{
+	font-family: 'Edwardian Script ITC';
+	font-size: 2.5em;
+}

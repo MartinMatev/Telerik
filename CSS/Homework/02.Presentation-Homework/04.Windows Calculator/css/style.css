@@ -1,0 +1,255 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+main{
+	width: 420px;
+	height: 322px;
+}
+
+#wrapper{
+	width: 420px;
+	height: 380px;
+	margin: 25px;
+	padding: 5px 10px 15px 10px;
+	border-radius: 10px;
+	background: #d0e5fa; /* Old browsers */
+	background: -moz-linear-gradient(top,  #d0e5fa 2%, #f0f7fd 27%, #d9e4f1 32%, #acccec 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(2%,#d0e5fa), color-stop(27%,#f0f7fd), color-stop(32%,#d9e4f1), color-stop(100%,#acccec)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #d0e5fa 2%,#f0f7fd 27%,#d9e4f1 32%,#acccec 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #d0e5fa 2%,#f0f7fd 27%,#d9e4f1 32%,#acccec 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #d0e5fa 2%,#f0f7fd 27%,#d9e4f1 32%,#acccec 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #d0e5fa 2%,#f0f7fd 27%,#d9e4f1 32%,#acccec 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d0e5fa', endColorstr='#acccec',GradientType=0 ); /* IE6-9 */
+}
+
+#miscellaneous{
+	display: inline-block;
+	width: 60px;
+	vertical-align: middle;
+	padding-bottom: 5px;
+	font-size: 14px;
+}
+
+#calcImage{
+	display: inline-block;
+}
+
+#controlButtons{
+	width: 333px;
+	display: inline-block;
+	text-align: right;
+	vertical-align: top;
+	margin-top: -5px;
+}
+
+	#controlButtons button{
+		width: 10%;
+		height: 20px;
+		vertical-align: top;
+		margin-right: -5px;
+		padding-bottom: 4px;
+		font-size: 15px;
+		color: #FFF;
+		font-weight: bold;
+		border-right: 1px solid #758290;
+		border-bottom: 1px solid #758290;
+		border-left: 1px solid #758290;
+		border-top:none;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		background: linear-gradient(#E6F1FA 50%, #AEC0D9 50%);
+	}
+
+		#controlButtons button:last-child{
+			background: linear-gradient(#EAB3AB 50%, #C65E4A 50%);
+			width: 17%;
+		}
+
+		#controlButtons button:disabled{
+			background: linear-gradient(#E8F2FB 50%, #B8CAE1 50%);
+			color: #E5EDF4;
+		}
+
+#calculator{
+	font-family: 'Arial';
+	width: 420px;
+	height: 360px;
+	border:1px solid #758290;
+	background: #ecf4fc; /* Old browsers */
+	background: -moz-linear-gradient(top,  #ecf4fc 1%, #d9e4f1 33%, #d9e4f1 33%, #d9e4f1 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#ecf4fc), color-stop(33%,#d9e4f1), color-stop(33%,#d9e4f1), color-stop(100%,#d9e4f1)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #ecf4fc 1%,#d9e4f1 33%,#d9e4f1 33%,#d9e4f1 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #ecf4fc 1%,#d9e4f1 33%,#d9e4f1 33%,#d9e4f1 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #ecf4fc 1%,#d9e4f1 33%,#d9e4f1 33%,#d9e4f1 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #ecf4fc 1%,#d9e4f1 33%,#d9e4f1 33%,#d9e4f1 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ecf4fc', endColorstr='#d9e4f1',GradientType=0 ); /* IE6-9 */
+	height: 360px;
+}
+
+header nav ul{
+	list-style-type: none;
+}
+	
+	header nav{
+		width: 414px;
+		height: 13px;
+	    border-bottom: 1px solid #8E9DAF;
+	    margin-bottom: 10px;
+	    font-size: 13px;
+	    background: linear-gradient(#FEFEFF, #E2E7F6);
+	    color: #000;
+	    padding: 3px;
+	}
+
+	header nav ul li{
+		display: inline-block;
+		padding-right: 10px;
+	}
+
+	header nav ul li::first-letter{
+		text-decoration: underline;
+	}
+
+section>input[type=text]{
+	font-family: 'Consolas';
+	width: 365px;
+	padding: 7px;
+	padding-top: 15px;
+	background: linear-gradient(#E5EEFA, #FFF); 
+	font-size: 21px;
+	text-align: right;
+	border:1px solid #8E9CAD;
+	border-radius: 3px;
+}
+
+#input{
+	padding-left: 20px;
+}
+
+section>table#binaryRepresentation{
+	margin-left: 20px;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	background-color: #D9E4F1;
+}
+
+	#binaryRepresentation{
+		width: 380px;
+		border:1px solid #8E9CAD;
+		border-radius: 3px;
+		text-align: center;
+	}
+
+	section table#binaryRepresentation tr td{
+		font-family: 'Consolas';
+		color: #243758;
+		font-size: 13px;
+		line-height: 13px;
+	}
+
+		section table#binaryRepresentation tr:nth-child(2n) td{
+			text-align: left;
+			padding-left: 9px;
+			color: gray;
+		}
+
+			section table#binaryRepresentation tr:nth-child(2n) td:last-child{
+				text-align: right;
+				padding-right: 12px;
+			}
+
+section:nth-child(3){
+	width: 95px;
+	float: left;
+}
+
+	section>div#fieldsets>fieldset{
+		width:inherit;
+		margin-left: 20px;
+		padding-left: 10px;
+		border:1px solid #8E9CAD;
+		border-radius: 3px;
+		background-color: #D9E4F1;
+		color: #243758;
+		font-size: 12px;
+	}
+
+		section>div#fieldsets>fieldset:first-child{
+			margin-bottom: 7px;
+		}
+
+			section>div#fieldsets>fieldset>input{
+				display: inline-block;
+				margin-top: 5px;
+				margin-bottom: 5px;
+			}
+
+section:last-child{
+	width: 300px;
+	height: 200px;
+	margin-top: -1px;
+	margin-right: 18px;
+	float: right;
+}
+	
+	section>table#buttonsTable{
+		width: inherit;
+		height: inherit;
+	}
+
+		section>table#buttonsTable tr td{
+			width:30px;
+		}
+
+			button:disabled {
+		        background: none;
+		    }
+
+		    button:hover:enabled {
+		    	border: 1px solid;
+		        border-color: #F6D712;
+		        background: linear-gradient(#FDEEDE 50%, #FBD47E 50%);
+		    }
+
+				.generalButton,
+				.hexButton,
+				.numericButton,
+				.boldedSign,
+				.mButton{
+					color: #243758;
+		    		width: 100%;
+		    		height: 30px;
+		    		border:1px solid #8E9CAD;
+					border-radius: 3px;
+				}
+
+				.boldedSign{
+					width: 100%;
+					height: 100%;
+					font-size: 17px;
+					font-weight: bold;
+					background: linear-gradient(#ECF2F8 50%, #D6E1EF 50%);
+				}
+
+				.numericButton{
+					background: linear-gradient(#F7FBFF 50%, #EEF6FB 50%);
+				}
+
+				.generalButton{
+					font-size: 12px;
+					background: linear-gradient(#ECF2F8 50%, #D6E1EF 50%);		
+				}
+
+				.hexButton{
+					border: 1px solid #C0CDDC;
+				}
+
+				.mButton{
+					font-size: 12px;
+					background-color: #D9E4F1;
+				}
+
+			
+
