@@ -1,0 +1,105 @@
+body {
+    font-family: 'Candara';
+    width: 780px;
+    height: 510px;
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+
+header{
+    padding-top: 12px;
+}
+
+    header nav {
+        display: inline;
+        padding: 3px;
+        margin: 20px;
+        text-align: center;
+        position: relative;
+        left: 140px;
+    }
+
+        header nav a {
+            font-family: 'Arial';
+            margin: 3px;
+            color: #05B4F1;
+            font-weight: bold;
+            font-size: 1.30em;
+        }
+
+    header hr{
+        width: 700px;
+        border: 1px solid;
+    } 
+
+section {
+    width: 528px;
+    border: 2px solid #000;
+    overflow: auto;
+    padding: 1px;
+    margin: 10px;
+    float: left;
+}
+
+article {
+    margin: 0;
+}
+
+fieldset {
+    margin: 5px 5px;
+    padding: 0;
+    border: 2px solid #000;
+    display:inline-block;
+    width:250px;
+    float: left;
+    font-weight: bold;
+}
+
+fieldset legend {
+    margin: 0 30px;
+}
+
+fieldset img {
+    width:120px;
+    height:70px;
+    margin:5px;
+    float:left;
+}
+
+    fieldset > span {
+        display: inline-block;
+        margin: 5px;
+        width:80px;
+    }
+
+    fieldset > span:first-of-type {
+    margin-top:30px;
+}
+
+        fieldset>div > span {
+        display: inline-block;
+            margin: 5px 10px 5px;
+        width:100px;
+    }
+
+ul {
+    list-style-type: none;
+    margin: 20px;
+}
+
+    ul li {
+        margin-top: 45px;
+        font-size: 20px;
+    }
+
+input[type="range"] {
+    width: 180px;
+}
+
+.spaces{
+    padding-left: 35px;
+}
+
+.moreSpaces{
+    padding-left: 55px;
+}
