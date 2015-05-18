@@ -1,0 +1,109 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: "Times New Roman";
+	color: #000000;
+	font-size: 16px;
+}
+
+.preview{
+	display: none;
+}
+
+.avengers{
+	position: relative;
+	list-style-type: none;	
+}
+
+.avenger{
+	/*position: absolute;*/
+	display: inline-block;
+	border: 3px solid black;
+	padding: 10px 15px;
+	border-top-left-radius: 15px;
+	border-right: none;
+	margin-right: -5px;
+	font-weight: bold;
+}
+
+	.avenger:last-child{
+		border-right: 3px solid black;
+	}
+
+	.avenger:hover{
+		text-decoration: underline;
+		border-bottom: none;
+		background-color: rgb(204, 204, 204);
+	}
+
+	.avenger:hover .preview{
+		position: absolute;
+		top: 50px;
+		left: 3px;
+		margin-top: -6px;
+		width: 590px;
+		height: 235px;
+		background-color: rgb(204, 204, 204);
+		display: inline-block;		
+		border: 3px solid black;
+		border-top: none;
+		padding: 15px;
+	}
+
+		.avenger:hover .preview img{
+			width: 400px;
+			height: 225px;
+			padding: 5px;
+			border: 1px solid #FFF;
+			border-radius: 5px;
+			background-color: #FFF;
+		}
+
+
+.skills{
+	position: absolute;
+	display: inline-block;
+	float: right;
+	list-style: none;
+	margin: 25px;
+	/*line-height: 50px;*/
+	font-weight: normal;
+	font-size: 1.35em;
+	text-transform: capitalize;
+}
+
+	.skills li{
+		padding-bottom: 40px;
+		text-align: center;
+	}
+
+	.avenger:nth-child(3) li{
+		padding-left: 40px;
+	}
+
+	.avenger:nth-child(2) li{
+		padding-left: 15px;
+	}
+
+	.avenger:nth-child(4) li{
+		padding-left: 25px;
+	}
+
+	.avenger:nth-child(5) li{
+		padding-left: 15px;
+	}
+
+	.avenger:nth-child(6) li{
+		padding-left: 30px;
+	}
+
+		.skills li:first-child{
+			padding-top: 15px;
+		}
+
+	.avenger:nth-child(2) li:nth-child(1){
+		text-decoration: underline;
+	} 

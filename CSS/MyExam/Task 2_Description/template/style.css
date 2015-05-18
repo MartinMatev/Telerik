@@ -1,0 +1,129 @@
+html, body {
+    font-family: 'Segoe UI', 'Segoe UI Web', 'Segoe UI Symbol', 'Helvetica Neue', 'BBAlpha Sans', 'S60 Sans', Arial, sans-serif;
+    background-color: #FFFFFF;
+    padding: 0;
+    margin: 0 auto;
+    width: 1000px;
+    font-weight: 400;
+    -webkit-text-stroke-width: 0;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+
+*{
+	margin: 0;
+	padding:0;
+}
+
+#header{
+	font-size: 22px;
+}
+
+#logo{
+	float: left;
+	background-image: url("images/logo.png");
+	width: 170px;
+	height: 65px;
+}
+
+.separator{
+	margin-top: 10px;
+	float: left;
+	width: 10px;
+	height: 45px;
+	border-right: 5px solid #333333;
+}
+
+#headerTitle{
+	font-weight: bold;
+	float: left;
+	margin-top: 15px;
+	margin-left: 10px;
+}
+
+#shellHeader:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+ }
+.shellHeader { display: inline-block; }
+
+#search{
+	width: 1000px;
+	height: 50px;
+	padding-top: 12px;
+    text-align: center;
+    background-color: #0078D7;
+}
+
+	#search input[type=search]{
+		display: inline-block;
+		width: 400px;
+		height: 35px;
+	}
+
+#main{
+	padding: 10px 20px;
+}
+
+	#main h1{
+		font-size: 30px;
+		color: #333333;
+	}
+
+	#main h2{
+		font-size: 24px;
+		font-weight: normal;
+		color: #333333;
+	}
+
+	#main hr{
+		height: 5px;
+		background-color: #333333;
+		margin: 5px 0;
+	}
+
+	#main p{
+		color: #505050;
+		margin: 15px 0;
+		font-size: 16px;
+		text-align: justify;
+	}
+
+#footer{
+	background-color: #505050;
+	height: 60px;
+	width: inherit;
+	font-size: 14px;
+}
+
+	#footer #language{
+		float: left;
+		padding: 20px;
+		color: #CCCCCC;
+	}
+
+	#footer #footerMenu{
+		padding: 20px 0;
+		float: right;
+		list-style: none;
+	}
+
+		#footer #footerMenu li{
+			margin-left: 10px;
+			display: inline-block;
+		}
+
+		#footer #footerMenu a{
+			text-decoration: none;
+			color: #CCCCCC;
+		}
+
+	#footer #copyright{
+		float: right;
+		padding: 20px 20px 20px 15px;
+		color: #CCCCCC;
+		font-weight: bold;
+	}
