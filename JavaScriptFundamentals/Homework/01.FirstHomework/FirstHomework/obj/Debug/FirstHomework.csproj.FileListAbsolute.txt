@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\JavaScriptFundamentals\FirstHomework\FirstHomework\bin\FirstHomework.dll.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\JavaScriptFundamentals\FirstHomework\FirstHomework\bin\FirstHomework.dll
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\JavaScriptFundamentals\FirstHomework\FirstHomework\bin\FirstHomework.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\JavaScriptFundamentals\FirstHomework\FirstHomework\obj\Debug\FirstHomework.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\JavaScriptFundamentals\FirstHomework\FirstHomework\obj\Debug\FirstHomework.dll
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\JavaScriptFundamentals\FirstHomework\FirstHomework\obj\Debug\FirstHomework.pdb
