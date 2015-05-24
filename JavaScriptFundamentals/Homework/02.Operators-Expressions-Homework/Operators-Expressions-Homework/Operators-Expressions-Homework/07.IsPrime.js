@@ -44,15 +44,17 @@ console.log(checkIfPrime(minusThree));
 console.log(checkIfPrime(zero));
 
 function checkIfPrime(number) {
-    if (number < 2) {
-        return false;
-    }
+    var divider = 2;
+    var maxDivider = Math.sqrt(number);
+    var isPrime = number >= 2;
 
-    for (var i = 2; i <= Math.sqrt(number); i++) {
-        if ((number % i) == 0) {
-            return false;
+    while (isPrime && divider <= maxDivider) {
+        if (number % divider == 0) {
+            isPrime = false;
+            break;
         }
-
-        return true;
+        divider++;
     }
+
+    return isPrime;
 }
