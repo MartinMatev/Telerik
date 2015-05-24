@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Loops Homework</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+	<script type="text/javascript" src="js/01.Numbers.js"></script>
+	<script type="text/javascript" src="js/02.NumbersNotDivisible.js"></script>
+	<script type="text/javascript" src="js/03.MinMax.js"></script>
+	<script type="text/javascript" src="js/04.LexicographicallySmallest.js"></script>
+</head>
+<body>
+	<h1>Loops Homework</h1>
+
+	<section>
+		<fieldset>
+			<legend>Problem 1: Numbers</legend>
+
+			<label for="firstNumber">Enter a positive integer</label>
+			<input type="text" id="firstNumber" />
+			<input type="button" onclick="firstProblem()"  value="SUBMIT" />
+			<div id="firstAnswer"></div>
+		</fieldset>		
+	</section>
+
+	<section>
+		<fieldset>
+			<legend>Problem 2: Numbers not divisible</legend>
+
+			<label for="secondNumber">Enter a positive integer</label>
+			<input type="text" id="secondNumber" />
+			<input type="button" onclick="secondProblem()"  value="SUBMIT" />
+			<div id="secondAnswer"></div>
+		</fieldset>		
+	</section>
+
+	<section>
+		<fieldset>
+			<legend>Problem 3: Min/Max of sequence</legend>
+
+			<label for="thirdNumber">Enter a SEQUENCE of positive integers, SEPARATED BY SPACE</label>
+			<input type="text" id="thirdNumber" />
+			<input type="button" onclick="thirdProblem()"  value="SUBMIT" />
+			<div id="thirdAnswer"></div>
+		</fieldset>		
+	</section>
+
+	<section>
+		<fieldset>
+			<legend>Problem 4: Lexicographically smallest</legend>
+
+			<label for="thirdNumber">Choose one option and press SUBMIT!</label>
+			<br/>
+			<label>Document</label>
+			<input type="radio" id="r1" name="DOMobject" value="Document" checked="checked" />
+
+			<label>Window</label>
+			<input type="radio" id="r2" name="DOMobject" value="Window" />
+
+			<label>Navigator</label>
+			<input type="radio" id="r3" name="DOMobject" value="Navigator" />
+
+			<input type="button" onclick="fourthProblem()"  value="SUBMIT" />
+			<div id="fourthAnswer"></div>
+		</fieldset>		
+	</section>
+	<hr/>
+
+	<footer>
+		Answers will be generated in the console as well!
+	</footer>
+</body>
+</html>
