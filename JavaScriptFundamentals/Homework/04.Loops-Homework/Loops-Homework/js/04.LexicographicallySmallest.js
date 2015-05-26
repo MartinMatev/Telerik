@@ -2,7 +2,7 @@
 // Problem 4: Lexicographically smallest
 
 function fourthProblem(){
-	var smallestProperty = 's';
+	var smallestProperty = 'a';
 	var largestProperty = '';
 	var result = document.getElementById('fourthAnswer');
 

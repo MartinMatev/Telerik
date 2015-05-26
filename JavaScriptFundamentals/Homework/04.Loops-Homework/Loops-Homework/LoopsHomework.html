@@ -12,13 +12,15 @@
 </head>
 <body>
 	<h1>Loops Homework</h1>
+	<h3>Press the submit button to generate an answer in the fieldset AND in the console as well.</h3>
+	<h4>Feel free to change the default values in the textboxes</h4>
 
 	<section>
 		<fieldset>
 			<legend>Problem 1: Numbers</legend>
 
 			<label for="firstNumber">Enter a positive integer</label>
-			<input type="text" id="firstNumber" />
+			<input type="text" id="firstNumber"  value="12" />
 			<input type="button" onclick="firstProblem()"  value="SUBMIT" />
 			<div id="firstAnswer"></div>
 		</fieldset>		
@@ -29,7 +31,7 @@
 			<legend>Problem 2: Numbers not divisible</legend>
 
 			<label for="secondNumber">Enter a positive integer</label>
-			<input type="text" id="secondNumber" />
+			<input type="text" id="secondNumber" value="35" />
 			<input type="button" onclick="secondProblem()"  value="SUBMIT" />
 			<div id="secondAnswer"></div>
 		</fieldset>		
@@ -40,7 +42,7 @@
 			<legend>Problem 3: Min/Max of sequence</legend>
 
 			<label for="thirdNumber">Enter a SEQUENCE of positive integers, SEPARATED BY SPACE</label>
-			<input type="text" id="thirdNumber" />
+			<input type="text" id="thirdNumber" value="3 5 1 4 -2 18 5 20 6" />
 			<input type="button" onclick="thirdProblem()"  value="SUBMIT" />
 			<div id="thirdAnswer"></div>
 		</fieldset>		
