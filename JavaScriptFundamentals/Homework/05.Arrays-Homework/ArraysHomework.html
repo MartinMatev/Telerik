@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Loops Homework</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+    <script type="text/javascript" src="js/01.IncreaseArrayMembers.js"></script>
+    <script type="text/javascript" src="js/02.LexicographicallyComparison.js"></script>
+    <script type="text/javascript" src="js/03.MaximalSequence.js"></script>
+    <script type="text/javascript" src="js/04.MaximalIncreasingSequence.js"></script>
+    <script type="text/javascript" src="js/05.SelectionSort.js"></script>
+    <script type="text/javascript" src="js/06.MostFrequentNumber.js"></script>
+    <script type="text/javascript" src="js/07.BinarySearch.js"></script>
+</head>
+<body>
+<h1>Arrays Homework</h1>
+
+<section>
+    <fieldset>
+        <legend>Problem 1: Increase Array Members</legend>
+
+        <label>Pressing the button will generate 20 integers, which values are their index, multiplied by 5!</label>
+        <input type="button" onclick="firstProblem()"  value="SUBMIT" />
+        <div id="firstAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 2: Lexicographically comparison</legend>
+
+        <label for="firstInputArray">Enter first char array, where each CHAR is separated by COMMA and SPACE, i.e: ', '</label>
+        <input type="text" id="firstInputArray" value="a, b"/>
+        <br/>
+        <label for="secondInputArray">Enter second char array, where each CHAR is separated by COMMA and SPACE, i.e: ', '</label>
+        <input type="text" id="secondInputArray" value="a, c"/>
+        <input type="button" onclick="secondProblem()"  value="SUBMIT" />
+        <div id="secondAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 3: Maximal sequence</legend>
+
+        <label for="inputArray">Enter the sequence, separated by COMMA and SPACE, i.e: ', '</label>
+        <input type="text" id="inputArray" value="7, 2, 2, 4, 4, 4, 8 "/>
+        <input type="button" onclick="thirdProblem()"  value="SUBMIT" />
+        <div id="thirdAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 4: Maximal increasing sequence</legend>
+
+        <label for="inputSequence">Enter the sequence, separated by COMMA and SPACE, i.e: ', '</label>
+        <input type="text" id="inputSequence" value="7, 4, 1, 7, 8, 9"/>
+        <input type="button" onclick="fourthProblem()"  value="SUBMIT" />
+        <div id="fourthAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 5: Selection sort</legend>
+
+        <label for="inputArrayToSort">Enter the array to be sorted, separated by COMMA and SPACE, i.e: ', '</label>
+        <input type="text" id="inputArrayToSort" value="2, 5, 6, 6, 1, 19, 2, 42"/>
+        <input type="button" onclick="fifthProblem()"  value="SUBMIT" />
+        <div id="fifthAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 6: Most frequent number</legend>
+
+        <label for="inputFrequencyArray">Enter the sequence, separated by COMMA and SPACE, i.e: ', '</label>
+        <input type="text" id="inputFrequencyArray" value="2, 5, 2, 17, 6, 2, 4, 7, 2"/>
+        <input type="button" onclick="sixthProblem()"  value="SUBMIT" />
+        <div id="sixthAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 7: Binary search</legend>
+
+        <label for="inputBinarySearchArray">Enter the sequence, separated by COMMA and SPACE, i.e: ', '</label>
+        <input type="text" id="inputBinarySearchArray" value="7, 5, 6, 3, 2, 9, 4, 12"/>
+        <br/>
+        <label for="inputBinarySearchNumber">Enter the number you are searching for</label>
+        <input id="inputBinarySearchNumber" type="text" value="4"/>
+        <input type="button" onclick="seventhProblem()"  value="SUBMIT" />
+        <div id="seventhAnswer"></div>
+    </fieldset>
+</section>
+<hr/>
+
+<footer>
+    Answers will be generated in the console as well!
+</footer>
+</body>
+</html>
