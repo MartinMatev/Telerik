@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Functions Homework</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+    <script type="text/javascript" src="js/01.EnglishDigit.js"></script>
+    <script type="text/javascript" src="js/02.ReverseNumber.js"></script>
+    <script type="text/javascript" src="js/03.OccurrencesOfWord.js"></script>
+    <script type="text/javascript" src="js/04.NumberOfElements.js"></script>
+    <script type="text/javascript" src="js/05.AppearanceCount.js"></script>
+    <script type="text/javascript" src="js/06.LargerThanNeighbours.js"></script>
+    <script type="text/javascript" src="js/07.FirstLargerThanNeighbours.js"></script>
+</head>
+<body>
+<h1>Functions Homework</h1>
+
+<section>
+    <fieldset>
+        <legend>Problem 1: English Digit</legend>
+
+        <label for="convertToWord">Enter a number and press the SUBMIT button to get its last digit as a word</label>
+        <input type="text" id="convertToWord" value="1337"/>
+        <input type="button" onclick="firstProblem()"  value="SUBMIT" />
+        <div id="convertToWordAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 2: Reverse Number</legend>
+
+        <label for="decimalNumber">Enter the number to reverse</label>
+        <input type="text" id="decimalNumber" value="123.45"/>
+        <input type="button" onclick="secondProblem()"  value="SUBMIT" />
+        <div id="decimalNumberAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 3: Occurrences Of Word</legend>
+
+        <label for="inputText">Enter the text</label>
+        <input type="text" id="inputText" value="test TeSt test"/>
+        <br/>
+        <label for="inputWord">Enter the word you want found</label>
+        <input type="text" id="inputWord" value="test"/>
+        <br/>
+        <label>Choose if you want case-sensitive OR case-insensitive:</label>
+        <br/>
+        <label>(1).Case-Sensitive</label>
+        <input type="radio" id="sensitive" name="case"  value="sensitive" checked="checked"/>
+        <br/>
+        <label>(2).Case-Insensitive</label>
+        <input type="radio" id="insensitive" name="case" value="insensitive"/>
+        <input type="button" onclick="thirdProblem()"  value="SUBMIT" />
+        <div id="occurenceAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 4: Number Of Elements</legend>
+
+        <label for="tagInput">Enter the element (tag) name you want to be counted, WITHOUT opening and closing tags!</label>
+        <input type="text" id="tagInput" value="div"/>
+        <input type="button" onclick="fourthProblem()"  value="SUBMIT" />
+        <div id="tagCountAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 5: Appearance Count</legend>
+
+        <label for="inputSearchArray">Enter the array, separated by COMMA and SPACE, i.e: ', '</label>
+        <input type="text" id="inputSearchArray" value="1, 34, 2, 7, 1, 2, 3, 2, 1, 20"/>
+        <br/>
+        <label for="inputSearchNumber">Enter the element you want found and counted</label>
+        <input type="text" id="inputSearchNumber" value="2"/>
+        <input type="button" onclick="fifthProblem()"  value="SUBMIT" />
+        <div id="numberCountAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 6: Larger Than Neighbours</legend>
+
+        <label for="inputArraySequence">Enter the sequence, separated by COMMA and SPACE, i.e: ', '</label>
+        <input type="text" id="inputArraySequence" value="3, 5, 7, 1, 12, 5"/>
+        <br/>
+        <label for="inputIndex">Enter the INDEX of the element, which neighbours you want checked.</label>
+        <input type="text" id="inputIndex"  value="2"/>
+        <input type="button" onclick="sixthProblem()"  value="SUBMIT" />
+        <div id="neighboursCheckAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 7: FirstLargerThanNeighbours</legend>
+
+        <label for="inputSequence">Enter the sequence, separated by COMMA and SPACE, i.e: ', '</label>
+        <input type="text" id="inputSequence" value="4, 1, 3, 2, 7, 4"/>
+        <input type="button" onclick="seventhProblem()"  value="SUBMIT" />
+        <div id="firstLargerAnswer"></div>
+    </fieldset>
+</section>
+<hr/>
+
+<footer>
+    Answers will be generated in the console as well!
+</footer>
+</body>
+</html>
