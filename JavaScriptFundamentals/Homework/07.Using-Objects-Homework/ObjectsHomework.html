@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Using Objects Homework</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+    <script type="text/javascript" src="js/01.PlanarCoordinates.js"></script>
+    <script type="text/javascript" src="js/02.RemoveElements.js"></script>
+    <script type="text/javascript" src="js/03.DeepCopy.js"></script>
+    <script type="text/javascript" src="js/04.HasProperty.js"></script>
+    <script type="text/javascript" src="js/05.YoungestPerson.js"></script>
+    <script type="text/javascript" src="js/06.Problem6.js"></script>
+</head>
+<body>
+<h1>Using Objects Homework</h1>
+
+<section>
+    <fieldset>
+        <legend>Problem 1: Planar Coordinates</legend>
+
+        <p>Enter Point 1 Coordinates (First segment):</p>
+        <label for="x1">Enter Point 1 - X</label>
+        <input id="x1" value="7" placeholder="Enter a number" />
+        <label for="y1">Enter Point 1 - Y</label>
+        <input id="y1" value="3" placeholder="Enter a number" />
+        <br />
+        <label for="x2">Enter Point 2 - X</label>
+        <input id="x2" value="2" placeholder="Enter a number" />
+        <label for="y2">Enter Point 2 - Y</label>
+        <input id="y2" value="5" placeholder="Enter a number" />
+        <br />
+        <br />
+        <div id="segmentOneAnswer">Segment 1 result:</div>
+
+        <p>Enter Point 2 Coordinates (Second segment):</p>
+        <label for="x3">Enter Point 3 - X</label>
+        <input id="x3" value="7" placeholder="Enter a number" />
+        <label for="y3">Enter Point 3 - Y</label>
+        <input id="y3" value="3" placeholder="Enter a number" />
+        <br />
+        <label for="x4">Enter Point 4 - X</label>
+        <input id="x4" value="0" placeholder="Enter a number" />
+        <label for="y4">Enter Point 4 - Y</label>
+        <input id="y4" value="0" placeholder="Enter a number" />
+        <br />
+        <br />
+        <div id="segmentTwoAnswer">Segment 2 result:</div>
+
+        <p>Enter Point 3 Coordinates (Third segment):</p>
+        <label for="x5">Enter Point 5 - X</label>
+        <input id="x5" value="0" placeholder="Enter a number" />
+        <label for="y5">Enter Point 5 - Y</label>
+        <input id="y5" value="0" placeholder="Enter a number" />
+        <br />
+        <label for="x6">Enter Point 6 - X</label>
+        <input id="x6" value="2" placeholder="Enter a number" />
+        <label for="y6">Enter Point 6 - Y</label>
+        <input id="y6" value="5" placeholder="Enter a number" />
+        <br />
+        <br />
+        <div id="segmentThreeAnswer">Segment 3 result:</div>
+        <button onclick="firstProblem()">SUBMIT</button>
+        <div id="finalAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 2: Remove Elements</legend>
+
+        <label for="inputArray">Enter the number to reverse</label>
+        <input type="text" id="inputArray" value="3, 3, 5, 1, 3, 2, 18, 32, 3, 8"/>
+        <br/>
+        <label for="inputNumber">Enter the number to reverse</label>
+        <input type="text" id="inputNumber" value="3"/>
+        <input type="button" onclick="secondProblem()"  value="SUBMIT" />
+        <div id="removeNumberAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 3: Deep Copy</legend>
+
+        <label>For the Deep Copy problem, please PRESS the SUBMIT button and INSPECT the code in the appropriate js file!</label>
+        <br/>
+        <label>Results will be shown in the div below as well as the console, but checking out the code is necessary!</label>
+        <br/>
+        <input type="button" onclick="thirdProblem()"  value="SUBMIT" />
+        <div id="deepCopyAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 4: Has Property</legend>
+
+        <label>Results will be shown in the div below as well as the console, but checking out the code is necessary, for there you can SEE the object which is looped for the property to be found!</label>
+        <br/>
+        <label for="inputProperty">For the Has Property problem, please type in the property you want found and PRESS the SUBMIT button.</label>
+        <br/>
+        <input type="text" id="inputProperty" value="name"/>
+        <input type="button" onclick="fourthProblem()"  value="SUBMIT" />
+        <div id="propertyCheckAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 5: Youngest Person</legend>
+
+        <label>Enter first persons data:</label>
+        <br/>
+        <label for="inputFirstName">NAME: </label>
+        <input type="text" id="inputFirstName" value="Gosho"/>
+
+        <label for="inputFirstLastName">LASTNAME: </label>
+        <input type="text" id="inputFirstLastName" value="Petrov"/>
+
+        <label for="inputFirstAge">AGE: </label>
+        <input type="text" id="inputFirstAge" value="32"/>
+        <br/>
+        <br/>
+        <label>Enter second persons data:</label>
+        <br/>
+        <label for="inputSecondName">NAME: </label>
+        <input type="text" id="inputSecondName" value="Bay"/>
+
+        <label for="inputSecondLastName">LASTNAME: </label>
+        <input type="text" id="inputSecondLastName" value="Ivan"/>
+
+        <label for="inputSecondAge">AGE: </label>
+        <input type="text" id="inputSecondAge" value="81"/>
+
+        <input type="button" onclick="fifthProblem()"  value="SUBMIT" />
+        <div id="youngerPersonAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 6: Problem 6</legend>
+        <label>Enter first persons data:</label>
+        <br/>
+        <label for="inputGroupFirstName">NAME: </label>
+        <input type="text" id="inputGroupFirstName" value="Gosho"/>
+
+        <label for="inputGroupFirstLastName">LASTNAME: </label>
+        <input type="text" id="inputGroupFirstLastName" value="Petrov"/>
+
+        <label for="inputGroupFirstAge">AGE: </label>
+        <input type="text" id="inputGroupFirstAge" value="32"/>
+        <br/>
+        <br/>
+        <label>Enter second persons data:</label>
+        <br/>
+        <label for="inputGroupSecondName">NAME: </label>
+        <input type="text" id="inputGroupSecondName" value="Bay"/>
+
+        <label for="inputGroupSecondLastName">LASTNAME: </label>
+        <input type="text" id="inputGroupSecondLastName" value="Ivan"/>
+
+        <label for="inputGroupSecondAge">AGE: </label>
+        <input type="text" id="inputGroupSecondAge" value="81"/>
+        <br/>
+        <br/>
+        <label>GROUP BY</label>
+        <br/>
+        <label>First Name</label>
+        <input type="radio" id="firstName" name="groupType" checked="checked"/>
+        <label>Last Name</label>
+        <input type="radio" id="lastName" name="groupType"/>
+        <label>Age</label>
+        <input type="radio" id="age" name="groupType"/>
+        <input type="button" onclick="sixthProblem()"  value="SUBMIT" />
+        <div id="sortingProblemAnswer"></div>
+    </fieldset>
+</section>
+<hr/>
+
+<footer>
+    Answers will be generated in the console as well!
+</footer>
+</body>
+</html>
