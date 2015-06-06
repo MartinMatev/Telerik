@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Strings Homework</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+    <script type="text/javascript" src="js/01.ReverseString.js"></script>
+    <script type="text/javascript" src="js/02.CorrectBrackets.js"></script>
+    <script type="text/javascript" src="js/03.Sub-stringInText.js"></script>
+    <script type="text/javascript" src="js/04.ParseTags.js"></script>
+    <script type="text/javascript" src="js/05.nbsp.js"></script>
+    <script type="text/javascript" src="js/06.ExtractTextFromHTML.js"></script>
+    <script type="text/javascript" src="js/07.ParseURL.js"></script>
+    <script type="text/javascript" src="js/08.ReplaceTags.js"></script>
+    <script type="text/javascript" src="js/09.ExtractE-mails.js"></script>
+    <script type="text/javascript" src="js/10.FindPalindromes.js"></script>
+    <script type="text/javascript" src="js/11.StringFormat.js"></script>
+    <script type="text/javascript" src="js/12.GenerateList.js"></script>
+</head>
+<body>
+<h1>Strings Homework</h1>
+
+<section>
+    <fieldset>
+        <legend>Problem 1: Reverse String</legend>
+
+        <label for="reverseString">Enter the string to reverse and press the SUBMIT button!</label>
+        <input id="reverseString" value="sample" />
+        <input type="button"  value="SUBMIT" onclick="firstProblem()"/>
+        <div id="reversedStringAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 2: Correct Brackets</legend>
+
+        <label for="bracketsInput">Enter the brackets expression and press the SUBMIT button!</label>
+        <input id="bracketsInput" value="((a+b)/5-d)" />
+        <input type="button"  value="SUBMIT" onclick="secondProblem()"/>
+        <div id="bracketsOutputAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 3: Sub-string in Text</legend>
+
+        <label for="textInput">Enter the text to check.</label>
+        <input id="textInput" value="The text is as follows: We are living in an yellow submarine. We don't have anything else. inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days." />
+        <br/>
+        <label for="subStringInput">Enter the sub-string to search for(case INsensitive).</label>
+        <input id="subStringInput" value="in" />
+        <input type="button"  value="SUBMIT" onclick="thirdProblem()"/>
+        <div id="searchResultsAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 4: Parse Tags</legend>
+
+        <label for="inputText">Enter the text with the appropriate tags (like in the example) and press SUBMIT!</label>
+        <input id="inputText" value="We are <mixcase>living</mixcase> in a <upcase>yellow submarine</upcase>. We <mixcase>don't</mixcase> have <lowcase>ANYTHING</lowcase> else." />
+        <input type="button"  value="SUBMIT" onclick="fourthProblem()"/>
+        <div id="correctTransformationAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 5: nbsp</legend>
+
+        <label for="spaceText">Enter the text with spaces and press SUBMIT so they can get replaced!</label>
+        <input id="spaceText" value="This is a test text to test the space replacement function!" />
+        <input type="button"  value="SUBMIT" onclick="fifthProblem()"/>
+        <div id="spaceReplacedAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 6: Extract Text from HTML</legend>
+        <label for="extractInput">Enter the text with tags which content to be extracted!</label>
+        <input id="extractInput" value="<html>
+                                          <head>
+                                            <title>Sample site</title>
+                                          </head>
+                                          <body>
+                                            <div>text
+                                              <div>more text</div>
+                                              and more...
+                                            </div>
+                                            in body
+                                          </body>
+                                        </html>" />
+        <input type="button"  value="SUBMIT" onclick="sixthProblem()"/>
+        <div id="extractedOutputAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 7: Parse URL</legend>
+
+        <label for="urlText">Enter the text url and press SUBMIT!</label>
+        <input id="urlText" value="http://telerikacademy.com/Courses/Courses/Details/239" />
+        <input type="button"  value="SUBMIT" onclick="seventhProblem()"/>
+        <div id="urlInfoAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 8: Replace Tags</legend>
+
+        <label for="replaceHrefTag">Enter the text with spaces and press SUBMIT so they can get replaced!</label>
+        <input id="replaceHrefTag" value="<p>Please visit <a href=&quot;http://academy.telerik.com/&quot;>our site</a> to choose a training course. Also visit <a href=&quot;www.devbg.org&quot;>our forum</a> to discuss the courses.</p>" />
+        <input type="button"  value="SUBMIT" onclick="eighthProblem()"/>
+        <div id="displayOriginal"></div>
+        <div id="replacedHrefTagAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 9: Extract E-mails</legend>
+
+        <label for="emailText">Enter the text to extract all the e-mails from and press SUBMIT!</label>
+        <input id="emailText" value="Yesterday, I saw a creepyguy@abv.bg so I ran for my effin live, hoping there was a policeman@yahoo.mail nearby." />
+        <div id="display"></div>
+        <input type="button"  value="SUBMIT" onclick="ninthProblem()"/>
+        <div id="emailTextExtractedAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 10: Find Palindromes</legend>
+
+        <label for="palindromesText">Enter the text to extract all the palindromes from and press SUBMIT!</label>
+        <input id="palindromesText" value="ABBA, lamal, danger, exe, food, surprise, mofo" />
+        <input type="button"  value="SUBMIT" onclick="tenthProblem()"/>
+        <div id="palindromesExtractedAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 11: String Format</legend>
+
+        <label>Press the SUBMIT button and the STRING Format function will generate the answer.</label>
+        <br/>
+        <label>Inspect the code to make sure there's actually a function and it's not a hardcoded answer...</label>
+        <input type="button"  value="SUBMIT" onclick="eleventhProblem()"/>
+        <div id="stringFormattedAnswer"></div>
+    </fieldset>
+</section>
+
+<section>
+    <fieldset>
+        <legend>Problem 12: Generate List</legend>
+
+        <label>Enter the text with spaces and press SUBMIT so they can get replaced!</label>
+        <input type="button"  value="SUBMIT" onclick="twelfthProblem()"/>
+        <div id="list-item">
+            <strong>-{brand}-</strong> <span>-{model}-</span>
+        </div>
+    </fieldset>
+</section>
+<hr/>
+
+<footer>
+    Answers will be generated in the console as well!
+</footer>
+</body>
+</html>

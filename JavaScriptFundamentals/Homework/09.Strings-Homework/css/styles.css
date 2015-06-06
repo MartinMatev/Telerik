@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 10px;
+    font-weight: bold;
+}
+
+fieldset{
+    margin: 15px 0;
+    padding: 15px;
+}
+
+label{
+    font-weight: normal;
+    font-style: italic;
+}
+
+footer{
+    margin-top: 10px;
+}
+
+input[type="button"]{
+    margin-left: 10px;
+    border: 1px solid #000;
+}
+
+input[type="radio"]{
+    margin: 5px;
+}
+
+div{
+    margin-top: 10px;
+}
+
+ul{
+    list-style: square;
+    margin: 10px 40px;
+}
